@@ -151,90 +151,6 @@
       \field{pages}{110967}
       \range{pages}{1}
     \endentry
-    \entry{westfall2020chromosome}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{10}{}{%
-        {{uniquename=0,uniquepart=base,hash=ef90b9edd1c0ccad5fc62187052e8a69}{%
-           family={Westfall},
-           familyi={W\bibinitperiod},
-           given={Aundrea\bibnamedelima K},
-           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=e3d20b3696a736daab05dd3e5dda887e}{%
-           family={Telemeco},
-           familyi={T\bibinitperiod},
-           given={Rory\bibnamedelima S},
-           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=603e60282c48df2eb4968769c843b456}{%
-           family={Grizante},
-           familyi={G\bibinitperiod},
-           given={Mariana\bibnamedelima B},
-           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=81f9f21f4262a6c8e4c0616ca69eea8a}{%
-           family={Waits},
-           familyi={W\bibinitperiod},
-           given={Damien\bibnamedelima S},
-           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=f71a5ac9399c73f0e8e2c53de1a48f9a}{%
-           family={Clark},
-           familyi={C\bibinitperiod},
-           given={Amanda\bibnamedelima D},
-           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=c74c9d67a45a03a0a5d55ffb321c055b}{%
-           family={Simpson},
-           familyi={S\bibinitperiod},
-           given={Dasia\bibnamedelima Y},
-           giveni={D\bibinitperiod\bibinitdelim Y\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=1,uniquepart=given,hash=6f0a306f454eb59253b72045bc41c0e0}{%
-           family={Klabacka},
-           familyi={K\bibinitperiod},
-           given={Randy\bibnamedelima L},
-           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=1}}%
-        {{uniquename=0,uniquepart=base,hash=8dda6b31351a6cea897e52f9cb3870ef}{%
-           family={Sullivan},
-           familyi={S\bibinitperiod},
-           given={Alexis\bibnamedelima P},
-           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=5a8f0f5da7f65002bcfd287935bf26e7}{%
-           family={Perry},
-           familyi={P\bibinitperiod},
-           given={George\bibnamedelima H},
-           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=e9bb9b1663270a257eba20fcc521cc8d}{%
-           family={Sears},
-           familyi={S\bibinitperiod},
-           given={Michael\bibnamedelima W},
-           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Cold Spring Harbor Laboratory}%
-      }
-      \strng{namehash}{3b5bbdd900394a1c89cb18603858fe67}
-      \strng{fullhash}{97b41ff305fdf3b06971bf45fe1b0995}
-      \strng{bibnamehash}{97b41ff305fdf3b06971bf45fe1b0995}
-      \strng{authorbibnamehash}{97b41ff305fdf3b06971bf45fe1b0995}
-      \strng{authornamehash}{3b5bbdd900394a1c89cb18603858fe67}
-      \strng{authorfullhash}{97b41ff305fdf3b06971bf45fe1b0995}
-      \field{sortinit}{2}
-      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{bioRxiv}
-      \field{title}{A chromosome-level genome assembly for the Eastern Fence Lizard (\textit{Sceloporus undulatus}), a reptile model for physiological and evolutionary ecology}
-      \field{year}{2020}
-    \endentry
     \entry{grismer2016two}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -396,6 +312,312 @@
 
 \refsection{2}
   \datalist[entry]{ymdnt/global//global/global}
+    \entry{klabacka2021whiptail}{article}{}
+      \name{author}{11}{}{%
+        {{uniquename=1,uniquepart=given,hash=6f0a306f454eb59253b72045bc41c0e0}{%
+           family={Klabacka},
+           familyi={K\bibinitperiod},
+           given={Randy\bibnamedelima L},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=a4347dbbb5453258c657ef9b4039d494}{%
+           family={Parry},
+           familyi={P\bibinitperiod},
+           given={Hailey\bibnamedelima A},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=21e135ed23f3ee651b46a651ab6f6131}{%
+           family={Yap},
+           familyi={Y\bibinitperiod},
+           given={Kang\bibnamedelima Nian},
+           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a73e2104f806d5534cbde0d963b0008d}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={Ryan\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1296c6d8aca966c11191f1b48ba7773e}{%
+           family={Herron},
+           familyi={H\bibinitperiod},
+           given={Tori\bibnamedelima A},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=df7c2bd659c09c71a7f05de93853544c}{%
+           family={Horne},
+           familyi={H\bibinitperiod},
+           given={L.\bibnamedelimi Miles},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ef340a3036b858875350616e415d1bb8}{%
+           family={Maldonado},
+           familyi={M\bibinitperiod},
+           given={Jose\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=debe64112ca831ff79b2308aac313f25}{%
+           family={Oaks},
+           familyi={O\bibinitperiod},
+           given={Jamie\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=20c1c287ee65ff7c2d532ef12615760d}{%
+           family={Kavazis},
+           familyi={K\bibinitperiod},
+           given={Andreas\bibnamedelima N},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8f37a34b38deeeeb39760b746461c13e}{%
+           family={Fujita},
+           familyi={F\bibinitperiod},
+           given={Matthew\bibnamedelima K},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2245ddaccfdfa2b6a76f5f484ab5fcde}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Tonia\bibnamedelima S},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{02796bdcf8785cd79d92510d091adf6d}
+      \strng{fullhash}{8710d1350359f921e2efc757f45377b0}
+      \strng{bibnamehash}{8710d1350359f921e2efc757f45377b0}
+      \strng{authorbibnamehash}{8710d1350359f921e2efc757f45377b0}
+      \strng{authornamehash}{02796bdcf8785cd79d92510d091adf6d}
+      \strng{authorfullhash}{8710d1350359f921e2efc757f45377b0}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{in prep for American Naturalist}
+      \field{title}{Reduced mitochondrial efficiency in hyrid asexual lizards}
+      \field{year}{planned submission April 2020}
+    \endentry
+    \entry{westfall2020chromosome}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{uniquename=0,uniquepart=base,hash=ef90b9edd1c0ccad5fc62187052e8a69}{%
+           family={Westfall},
+           familyi={W\bibinitperiod},
+           given={Aundrea\bibnamedelima K},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e3d20b3696a736daab05dd3e5dda887e}{%
+           family={Telemeco},
+           familyi={T\bibinitperiod},
+           given={Rory\bibnamedelima S},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=603e60282c48df2eb4968769c843b456}{%
+           family={Grizante},
+           familyi={G\bibinitperiod},
+           given={Mariana\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=81f9f21f4262a6c8e4c0616ca69eea8a}{%
+           family={Waits},
+           familyi={W\bibinitperiod},
+           given={Damien\bibnamedelima S},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f71a5ac9399c73f0e8e2c53de1a48f9a}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Amanda\bibnamedelima D},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c74c9d67a45a03a0a5d55ffb321c055b}{%
+           family={Simpson},
+           familyi={S\bibinitperiod},
+           given={Dasia\bibnamedelima Y},
+           giveni={D\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=6f0a306f454eb59253b72045bc41c0e0}{%
+           family={Klabacka},
+           familyi={K\bibinitperiod},
+           given={Randy\bibnamedelima L},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=8dda6b31351a6cea897e52f9cb3870ef}{%
+           family={Sullivan},
+           familyi={S\bibinitperiod},
+           given={Alexis\bibnamedelima P},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5a8f0f5da7f65002bcfd287935bf26e7}{%
+           family={Perry},
+           familyi={P\bibinitperiod},
+           given={George\bibnamedelima H},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e9bb9b1663270a257eba20fcc521cc8d}{%
+           family={Sears},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima W},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3b5bbdd900394a1c89cb18603858fe67}
+      \strng{fullhash}{97b41ff305fdf3b06971bf45fe1b0995}
+      \strng{bibnamehash}{97b41ff305fdf3b06971bf45fe1b0995}
+      \strng{authorbibnamehash}{97b41ff305fdf3b06971bf45fe1b0995}
+      \strng{authornamehash}{3b5bbdd900394a1c89cb18603858fe67}
+      \strng{authorfullhash}{97b41ff305fdf3b06971bf45fe1b0995}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bioRxiv (in review with \textit{GigaScience})}
+      \field{title}{A chromosome-level genome assembly for the Eastern Fence Lizard (\textit{Sceloporus undulatus}), a reptile model for physiological and evolutionary ecology}
+      \field{year}{2020}
+    \endentry
+    \entry{tracy2021dber}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=cb43fa2da89e2c2e4f2498611f1af1e6}{%
+           family={Tracy},
+           familyi={T\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=10d2a60a398378e7b16efefec8fcab78}{%
+           family={Beatty},
+           familyi={B\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e89cdef4028ecbd7475b973d64ae53d1}{%
+           family={Dreissen},
+           familyi={D\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=2c235d653dd2e7e530cd56cdff2495d0}{%
+           family={Klabacka},
+           familyi={K\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{62bca8f7d5a9e3402b36bed3c8590ae9}
+      \strng{fullhash}{8f4c080954df6109481aa1192d4687e3}
+      \strng{bibnamehash}{8f4c080954df6109481aa1192d4687e3}
+      \strng{authorbibnamehash}{8f4c080954df6109481aa1192d4687e3}
+      \strng{authornamehash}{62bca8f7d5a9e3402b36bed3c8590ae9}
+      \strng{authorfullhash}{8f4c080954df6109481aa1192d4687e3}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{in prep}
+      \field{title}{Effect of internal and external stressors on sruggle in an introductory biology course}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{3}
+  \datalist[entry]{ymdnt/global//global/global}
+    \entry{SICB21}{article}{}
+      \name{author}{12}{uniquelist=2}{%
+        {{uniquename=0,uniquepart=base,hash=bb55dc1fa7dc793edaf2f2ebbddd4065}{%
+           family={Klabacka},
+           familyi={K\bibinitperiod},
+           given={Randy},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c41f56d1b3e47613c813138fccd5a7c6}{%
+           family={Parry},
+           familyi={P\bibinitperiod},
+           given={Hailey},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2ce3da7727ea0a4a1396c25d4258efe8}{%
+           family={Yap},
+           familyi={Y\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0d42c045b613cf5286fc7680273e4afd}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=60cc19757a3c2733b455e602050c5f58}{%
+           family={Herron},
+           familyi={H\bibinitperiod},
+           given={Tori},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=49f1b4e3a04876c69520b30bae5e1c73}{%
+           family={Horne},
+           familyi={H\bibinitperiod},
+           given={L\bibnamedelima Miles},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dc762de8e9ce3a5399161ccd19dc9041}{%
+           family={Maldonado},
+           familyi={M\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d8d85f9159c69c80d9bea3cce5c1d9e1}{%
+           family={Álvarez},
+           familyi={Á\bibinitperiod},
+           given={Guillermo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=20c1c287ee65ff7c2d532ef12615760d}{%
+           family={Kavazis},
+           familyi={K\bibinitperiod},
+           given={Andreas\bibnamedelima N},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=debe64112ca831ff79b2308aac313f25}{%
+           family={Oaks},
+           familyi={O\bibinitperiod},
+           given={Jamie\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8f37a34b38deeeeb39760b746461c13e}{%
+           family={Fujita},
+           familyi={F\bibinitperiod},
+           given={Matthew\bibnamedelima K},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2245ddaccfdfa2b6a76f5f484ab5fcde}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Tonia\bibnamedelima S},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{05d70934dc4a52cea3d9ba9c3a4f8ddb}
+      \strng{fullhash}{869c20f29e411d25810de04ca44c7c21}
+      \strng{bibnamehash}{869c20f29e411d25810de04ca44c7c21}
+      \strng{authorbibnamehash}{869c20f29e411d25810de04ca44c7c21}
+      \strng{authornamehash}{05d70934dc4a52cea3d9ba9c3a4f8ddb}
+      \strng{authorfullhash}{869c20f29e411d25810de04ca44c7c21}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SICB 2021}
+      \field{note}{Virtual Conference (talk)}
+      \field{title}{Reduced endurance and mitochondrial respiration in hybrid asexual lizards (genus: \textit{Aspidoscelis})}
+      \field{year}{2021}
+    \endentry
     \entry{WCH20}{article}{}
       \name{author}{12}{uniquelist=2}{%
         {{uniquename=0,uniquepart=base,hash=bb55dc1fa7dc793edaf2f2ebbddd4065}{%
@@ -1057,7 +1279,7 @@
   \enddatalist
 \endrefsection
 
-\refsection{3}
+\refsection{4}
   \datalist[entry]{ymdnt/global//global/global}
     \entry{david2020patterns}{article}{}
       \name{author}{3}{}{%

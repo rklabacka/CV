@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>CV.bcf</file>
@@ -83,6 +83,7 @@
     <requires type="editable">
       <file>pubs.bib</file>
       <file>acks.bib</file>
+      <file>prep.bib</file>
       <file>pres.bib</file>
     </requires>
   </external>
