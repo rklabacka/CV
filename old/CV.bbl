@@ -1,0 +1,288 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \datalist[entry]{ymdnt/global//global/global}
+    \entry{david2020patterns}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7ac9086dc3a92f514614ade78c4da61e}{%
+           family={David},
+           familyi={D\bibinitperiod},
+           given={Kyle\bibnamedelima T},
+           giveni={K\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50b87eb96ddff13872976ce96ec272ad}{%
+           family={Oaks},
+           familyi={O\bibinitperiod},
+           given={Jamie\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04542e780dc6d85e7b4fd78f4999733d}{%
+           family={Halanych},
+           familyi={H\bibinitperiod},
+           given={Kenneth\bibnamedelima M},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {PeerJ Inc.}%
+      }
+      \strng{namehash}{a7e5bb432d94d4524cbdf1c7a73deec6}
+      \strng{fullhash}{a7e5bb432d94d4524cbdf1c7a73deec6}
+      \strng{bibnamehash}{a7e5bb432d94d4524cbdf1c7a73deec6}
+      \strng{authorbibnamehash}{a7e5bb432d94d4524cbdf1c7a73deec6}
+      \strng{authornamehash}{a7e5bb432d94d4524cbdf1c7a73deec6}
+      \strng{authorfullhash}{a7e5bb432d94d4524cbdf1c7a73deec6}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PeerJ}
+      \field{title}{Patterns of gene evolution following duplications and speciations in vertebrates}
+      \field{volume}{8}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{e8813}
+      \range{pages}{-1}
+    \endentry
+    \entry{lanna2020dwarf}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=fb400f7ad282153c61c0778afc5ec865}{%
+           family={Lanna},
+           familyi={L\bibinitperiod},
+           given={Fl{á}via\bibnamedelima M},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfbf1db480ab53b033f46ae31b2344f4}{%
+           family={Gehara},
+           familyi={G\bibinitperiod},
+           given={Marcelo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10b602c73472417501a3fd0f2d0fa52b}{%
+           family={Werneck},
+           familyi={W\bibinitperiod},
+           given={Fernanda\bibnamedelima P},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30e3b0a6441fdf786a383777b913aa7f}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={Emanuel\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c6f04923d43f438eb8731eac1da79c8}{%
+           family={Colli},
+           familyi={C\bibinitperiod},
+           given={Guarino\bibnamedelima R},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57103285361e237087cb8fac0d26ba5f}{%
+           family={Sites\bibnamedelima Jr},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Jack\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=886789445c6279938132e93a88ec5493}{%
+           family={Rodrigues},
+           familyi={R\bibinitperiod},
+           given={Miguel\bibnamedelima T},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fa2019f8f17798dba9d3967e5c5a752}{%
+           family={Garda},
+           familyi={G\bibinitperiod},
+           given={Adrian\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press UK}%
+      }
+      \strng{namehash}{8bc084ecd66745ab46c3d8a2a6e9b2fa}
+      \strng{fullhash}{3d0cead6fef44b96801efc74af72e4ff}
+      \strng{bibnamehash}{3d0cead6fef44b96801efc74af72e4ff}
+      \strng{authorbibnamehash}{3d0cead6fef44b96801efc74af72e4ff}
+      \strng{authornamehash}{8bc084ecd66745ab46c3d8a2a6e9b2fa}
+      \strng{authorfullhash}{3d0cead6fef44b96801efc74af72e4ff}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biological Journal of the Linnean Society}
+      \field{number}{1}
+      \field{title}{Dwarf geckos and giant rivers: the role of the S{ã}o Francisco River in the evolution of \textit{Lygodactylus klugei} (Squamata: Gekkonidae) in the semi-arid Caatinga of north-eastern Brazil}
+      \field{volume}{129}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{88\bibrangedash 98}
+      \range{pages}{11}
+    \endentry
+    \entry{mackay2019multitissue}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=642b05d072d1f3ddf2560cfe8d6e76be}{%
+           family={Mackay},
+           familyi={M\bibinitperiod},
+           given={Amy\bibnamedelima D},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c58b4c5190388b28de0dffcb5c6d927}{%
+           family={Marchant},
+           familyi={M\bibinitperiod},
+           given={Erik\bibnamedelima D},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7b8195438663584f10faf3eeab9a6f5}{%
+           family={Munk},
+           familyi={M\bibinitperiod},
+           given={Devin\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1bdaf40518d7561ec696f46ec011437}{%
+           family={Watt},
+           familyi={W\bibinitperiod},
+           given={Richard\bibnamedelima K},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5b3323382b7545508d503dbebe94347}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Jason\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fe713ef6e735fbc8d8f9aafe465b959}{%
+           family={Thomson},
+           familyi={T\bibinitperiod},
+           given={David\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8881cb75c1ec6dc5fcc45ee855340402}{%
+           family={Hancock},
+           familyi={H\bibinitperiod},
+           given={Chad\bibnamedelima R},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Physiological Society Bethesda, MD}%
+      }
+      \strng{namehash}{791f3c3036551a82a9e87fb4a8a3f529}
+      \strng{fullhash}{a0cd3bb0ef34857426fa46d481a72e93}
+      \strng{bibnamehash}{a0cd3bb0ef34857426fa46d481a72e93}
+      \strng{authorbibnamehash}{a0cd3bb0ef34857426fa46d481a72e93}
+      \strng{authornamehash}{791f3c3036551a82a9e87fb4a8a3f529}
+      \strng{authorfullhash}{a0cd3bb0ef34857426fa46d481a72e93}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Physiology-Endocrinology and Metabolism}
+      \field{number}{5}
+      \field{title}{Multitissue analysis of exercise and metformin on doxorubicin-induced iron dysregulation}
+      \field{volume}{316}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{E922\bibrangedash E930}
+      \range{pages}{-1}
+    \endentry
+    \entry{fonseca2018diversification}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=30e3b0a6441fdf786a383777b913aa7f}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={Emanuel\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfbf1db480ab53b033f46ae31b2344f4}{%
+           family={Gehara},
+           familyi={G\bibinitperiod},
+           given={Marcelo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10b602c73472417501a3fd0f2d0fa52b}{%
+           family={Werneck},
+           familyi={W\bibinitperiod},
+           given={Fernanda\bibnamedelima P},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb400f7ad282153c61c0778afc5ec865}{%
+           family={Lanna},
+           familyi={L\bibinitperiod},
+           given={Fl{á}via\bibnamedelima M},
+           giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c6f04923d43f438eb8731eac1da79c8}{%
+           family={Colli},
+           familyi={C\bibinitperiod},
+           given={Guarino\bibnamedelima R},
+           giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57103285361e237087cb8fac0d26ba5f}{%
+           family={Sites\bibnamedelima Jr},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Jack\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=886789445c6279938132e93a88ec5493}{%
+           family={Rodrigues},
+           familyi={R\bibinitperiod},
+           given={Miguel\bibnamedelima T},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fa2019f8f17798dba9d3967e5c5a752}{%
+           family={Garda},
+           familyi={G\bibinitperiod},
+           given={Adrian\bibnamedelima A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{554f4c4d6f1059d6e158095e6ba0401d}
+      \strng{fullhash}{94e23ec9157ebfc78021e4aa71574835}
+      \strng{bibnamehash}{94e23ec9157ebfc78021e4aa71574835}
+      \strng{authorbibnamehash}{94e23ec9157ebfc78021e4aa71574835}
+      \strng{authornamehash}{554f4c4d6f1059d6e158095e6ba0401d}
+      \strng{authorfullhash}{94e23ec9157ebfc78021e4aa71574835}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Biogeography}
+      \field{number}{7}
+      \field{title}{Diversification with gene flow and niche divergence in a lizard species along the South American “diagonal of open formations”}
+      \field{volume}{45}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{1688\bibrangedash 1700}
+      \range{pages}{13}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

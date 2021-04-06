@@ -91,22 +91,22 @@
 \addbibresource{pubs.bib}
 \addbibresource{acks.bib}
 
-%% Function to bold author name
-%\newcommand{\makeauthorbold}[1]{%
-%  \DeclareNameFormat{author}{%
-%    \ifthenelse{\value{listcount}=1}
-%    {%
-%      {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\namepartfamily\addcomma\addspace \namepartgiveni}}{\namepartfamily\addcomma\addspace \namepartgiveni}}
-%      %
-%    }{\ifnumless{\value{listcount}}{\value{liststop}}
-%        {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni}}{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni}}
-%        {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni\addcomma\isdot}}{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni\addcomma\isdot}}%
-%      }
-%    \ifthenelse{\value{listcount}<\value{liststop}}
-%    {\addcomma\space}
-%  }
-%}
-%\makeauthorbold{Klabacka}
+% Function to bold author name
+\newcommand{\makeauthorbold}[1]{%
+  \DeclareNameFormat{author}{%
+    \ifthenelse{\value{listcount}=1}
+    {%
+      {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\namepartfamily\addcomma\addspace \namepartgiveni}}{\namepartfamily\addcomma\addspace \namepartgiveni}}
+      %
+    }{\ifnumless{\value{listcount}}{\value{liststop}}
+        {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni}}{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni}}
+        {\expandafter\ifstrequal\expandafter{\namepartfamily}{#1}{\mkbibbold{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni\addcomma\isdot}}{\addcomma\addspace \namepartfamily\addcomma\addspace \namepartgiveni\addcomma\isdot}}%
+      }
+    \ifthenelse{\value{listcount}<\value{liststop}}
+    {\addcomma\space}
+  }
+}
+\makeauthorbold{Klabacka}
 
 %----------------------------------------------------------------------------------
 %            content
@@ -117,56 +117,41 @@
 \makecvtitle
 
 \section{Education}
-\cventry{}{Department of Biological Sciences}{Ph.D. Candidate in Biological Sciences}{anticipated 2022}{\textit{Auburn University}}{Advisors: Drs. Jamie Oaks \& Tonia Schwartz}  % arguments 3 to 6 can be left empty
+\cventry{}{Department of Biological Sciences}{Ph.D. Candidate in Biological Sciences}{2016--}{\textit{Auburn University}}{Advisors: Drs. Jamie Oaks \& Tonia Schwartz}  % arguments 3 to 6 can be left empty
 \cventry{}{Department of Biology}{B.S. in Biology}{2016}{\textit{Brigham Young University}}{Advisors: Drs. Jack Sites \& Chad Hancock}  % arguments 3 to 6 can be left empty
 
-\section{Grants, Fellowships, and Scholarships}
+\section{Grants and Awards}
 \cvitemwithcomment{2020}{EECG Research Award (American Genetics Association)}{\$8,000}
 \small{\tabto{1.25cm}Genomic and bioenergetics costs of asexuality in a vertebrate system (\textit{Aspidoscelis})} \\
-\cvitemwithcomment{2017}{CMB Peaks of Excellence Research Fellowship (Auburn University)}{\$4,500}
-\small{\tabto{1.25cm}Mitonuclear distancing: The baggage of an asexual reproductive strategy} \\
-\cvitemwithcomment{2017}{Meredith Birchfield Endowed Fund for Excellence (Auburn Univ Museum of Natural History)}{\$1500}
-\small{\tabto{1.25cm}Examining species boundaries in \textit{Draco maculatus}} \\
-\cvitemwithcomment{2016}{Office of Research \& Creative Activities Grant (BYU)}{\$1,500}
-\small{\tabto{1.25cm}Phylogeny and species boundaries in spotted flying lizards (\textit{Draco maculatus})} \\
-\cvitemwithcomment{2012-15}{Undergraduate Academic Scholarships (BYU)}{\$11,987}
-
-\section{Awards}
 \cvitemwithcomment{2019}{COSAM Travel Award (Auburn University)}{\$300}
 \small{\tabto{1.25cm}Funding to present research at 9th World Congress of Herpetology} \\
 \cvitemwithcomment{2019}{1st Place - Henri Seibert Competition Systematics \& Evolution Category (SSAR)}{\$200}
 \small{\tabto{1.25cm}Riverine barriers as potential drivers of biodiversification in /textit{Draco maculatus}} \\
-\cvitemwithcomment{2019}{Trees in the Desert Workshop (NSF - University of Arizona)}{\$1,000}
-\small{\tabto{1.25cm}funded workshop (covering travel, lodging, food, and workshop} \\
+\cvitemwithcomment{2019}{Trees in the Desert Workshop (NSF - University of Arizona)}{fully funded}
+\small{\tabto{1.25cm}funded scholarship (covering travel, lodging, food, and workshop} \\
 \cvitemwithcomment{2017}{NSF Travel Grant (Society of Systematics Biology Meeting)}{\$500}
 \small{\tabto{1.25cm}Funding to present research at 2017 SSB meeting} \\
+\cvitemwithcomment{2017}{CMB Peaks of Excellence Research Fellowship (Auburn University)}{summer salary}
+\small{\tabto{1.25cm}Mitonuclear distancing: The baggage of an asexual reproductive strategy} \\
+\cvitemwithcomment{2016}{Office of Research \& Creative Activities Grant (BYU)}{\$1,500}
+\small{\tabto{1.25cm}Phylogeny and species boundaries in spotted flying lizards (\textit{Draco maculatus})} \\
 \cvitemwithcomment{2015}{3rd Place - HBLL College of Life Sciences Poster Competition (BYU)}{\$300}
 \small{\tabto{1.25cm}Phylogeny and species boundaries in spotted flying lizards (\textit{Draco maculatus})} \\
 \cvitemwithcomment{2015}{College of Life Sciences Dean's List (BYU)}{}
-\cvitemwithcomment{2014}{REU Supplement Recipient (BYU)}{\$3,000}
+\cvitemwithcomment{2014}{REU Supplemental Award (BYU)}{\$3,000}
 \small{\tabto{1.25cm}Phylogeny and biogeography of New World leaf-toed geckos (\textit{Phyllodactylus})} \\
+\cvitemwithcomment{2012-15}{Undergraduate Academic Scholarships (BYU)}{\$11,987}
 
 % Publications section using biblatex
-\section{Peer-reviewed Publications}
+\section{Publications}
 \begin{refsection}[pubs.bib]
 \nocite{*}
 \printbibliography[heading=none]
 \end{refsection}
 
-\section{Pre-prints and In-prep}
-\begin{refsection}[prep.bib]
-\nocite{*}
-\printbibliography[heading=none]
-\end{refsection}
-
-\section{Invited Seminars}
+\section{Invited Talks}
 \cvitemwithcomment{2019}{LSU Museum of Natural Science Seminar Series}{Invited Seminar}
-\small{\tabto{1.25cm}Riverine barriers as drivers of biodiversification in terrestrial fauna of Southeast Asia}
-\section{Guest Lectures}
-\cvitemwithcomment{2021}{Scripting for Biologists (BIOL 7180)}{Guest Lecture}
-\small{\tabto{1.25cm}Creating python classes and using random number generators} \\
-\small{\tabto{1.25cm}Implementing regular expressions} \\
-\small{\tabto{1.25cm}Introduction to Biopython} \\
+\small{\tabto{1.25cm}Riverine barriers as drivers of biodiversification in terrestrial fauna of Southeast Asia} \\
 \cvitemwithcomment{2019}{Vertebrate Biodiversity (BIOL 4020)}{Guest Lecture}
 \small{\tabto{1.25cm}Amphibian Life History Strategies} \\
 \cvitemwithcomment{2018}{Functional Genomics (BIOL 5850/6850}{Guest Lecture}
@@ -195,31 +180,28 @@
 \cvitemwithcomment{2013}{Counted egg masses \& recorded localities for \textit{Rana luteiventris} habitat restoration}{1 day}
 
 \section{Mentorship}
-I have mentored seven undergraduate students in field biology, physiology, and molecular lab work. Current positions of these students include veterinary school, lab/field tech, M.S. evol/ecol student, undergraduate research assistant, and working on manuscripts for peer-reviewed publications.
+I have mentored six undergraduate students in field biology, physiology, and molecular lab work. Current positions of these students include veterinary school, lab/field tech, M.S. evol/ecol student, undergraduate research assistant, and working on manuscripts for peer-reviewed publications.
 
 \section{Professional Development}
-\cvitemwithcomment{2020}{Inroduction to Discipline-Based Education Research - graduate course}{Instructor: Cissy Ballen}
-\cvitemwithcomment{2018}{Creating an active learning classroom - professional workshop}{Host: AU Biggio Center}
+\cvitemwithcomment{2018}{Creating an active learning classroom - professional workshop}{AU Biggio Center}
 
 \section{Assistantships}
-\subsection{{Research Assistantships}\footnotesize{................................................................................................Principle Investigator(s)}}
+\subsection{Auburn University}
 \begin{itemize}
-    \item{\cvitemwithcomment{2020}{Phylogenetics}{Jamie Oaks}}
-    \item{\cvitemwithcomment{2019}{Phylogenetics}{Jamie Oaks}}
-    \item{\cvitemwithcomment{2018}{Functional Genomics}{Tonia Schwartz}}
-    \item{\cvitemwithcomment{2013-2016}{Phylogenetic Systematics}{Jack Sites}}
-    \item{\cvitemwithcomment{2013-2016}{Metabolic Physiology and Bioenergetics}{Chad Hancock}}
+	\item{\cvitemwithcomment{2020 (summer)}{Graduate Research Assistantship (GRA)}{Phylogenetics (PI: Jamie Oaks)}}
+	\item{\cvitemwithcomment{2020}{Graduate Teaching Assistantship (GTA)}{BIOL 5740/6740: Herpetology Lab}}
+	\item{\cvitemwithcomment{2019}{GTA}{BIOL 4020: Vertebrate Biodiversity Lab}}
+	\item{\cvitemwithcomment{2019 (summer)}{GRA}{Phylogenetics (PI: Jamie Oaks)}}
+	\item{\cvitemwithcomment{2018}{GTA}{BIOL 5240/6240Animal Physiology Lab}}
+	\item{\cvitemwithcomment{2017-2019}{GTA}{BIOL 5600/6600: Biomedical Physiology Lab}}
+	\item{\cvitemwithcomment{2018 (summer)}{GRA}{Functional Genomics (PI: Tonia Schwartz)}}
+	\item{\cvitemwithcomment{2016}{GTA}{BIOL 2501: Anatomy and Physiology Lab}}
 \end{itemize}
-\subsection{{Teaching Assistantships}\footnotesize{...............................................................................................................Instructor(s)}}
+\subsection{Brigham Young University}
 \begin{itemize}
-    \item{\cvitemwithcomment{2021}{BIOL 7180: Scripting for Biologists}{Jamie Oaks}}
-    \item{\cvitemwithcomment{2020}{BIOL 4020: Vertebrate Biodiversity Lab}{Dan Warner}}
-    \item{\cvitemwithcomment{2020}{BIOL 5740/6740: Herpetology Lab}{Jamie Oaks \& Dan Warner}}
-    \item{\cvitemwithcomment{2019}{BIOL 4020: Vertebrate Biodiversity Lab}{Joshua Hall}}
-    \item{\cvitemwithcomment{2018}{BIOL 5240/6240: Animal Physiology Lab}{Ray Henry}}
-    \item{\cvitemwithcomment{2017-2019}{BIOL 5600/6600: Biomedical Physiology Lab}{Mary Mendonca}}
-    \item{\cvitemwithcomment{2016}{BIOL 2501: Anatomy and Physiology Lab}{Shobnom Ferdous}}
-    \item{\cvitemwithcomment{2013-2016}{BIO 130: Principles of Biology}{Instructors: Keoni Kauwe \& Byron Adams)}}
+	\item{\cvitemwithcomment{2013-2016}{Undergraduate RA}{Phylogenetic Systematics (PI: Jack Sites)}}
+	\item{\cvitemwithcomment{2013-2016}{URA}{Metabolic Physiology and Bioenergetics (PI: Chad Hancock)}}
+	\item{\cvitemwithcomment{2013-2016}{UTA}{BIO 130: Principles of Biology (Instructors: Keoni Kauwe \& Byron Adams)}}
 \end{itemize}
 
 \section{Relevant Research Skills}
@@ -228,7 +210,7 @@ I have mentored seven undergraduate students in field biology, physiology, and m
 	\item{Proficiently code in Python, C++, Bash, R, LaTeX, HTML, CSS}
 	\item{Develop genomic pipelines for read cleaning, assembly, mapping, and variant calling}
 	\item{Execute computational tools for functional genomics (e.g., gene expression), population genetics, and phylogenetics with genomic datasets}
-	\item{22 graded credit hours of Computer Science, Bioinformatics, and Computational Statistics}
+	\item{22 credit hours of Computer Science, Bioinformatics, and Computational Statistics}
 \end{itemize}
 \subsection{Molecular}
 \begin{itemize}
@@ -248,8 +230,7 @@ I have mentored seven undergraduate students in field biology, physiology, and m
 \end{itemize}
 
 \section{Outreach, Community Service, and Relevant Positions} 
-\cvitemwithcomment{2021-}{QuickGRITS podcast}{Creator \& host}
-\cvitemwithcomment{2021}{Safe techniques for handling snakes: Instructor}{E. W. Shell Fisheries, Auburn University}
+\cvitemwithcomment{2020-}{QuickGRITS podcast}{Creator \& host}
 \cvitemwithcomment{2020}{Chief Science Officers "Zoom In On Science" Guest}{SciTech Institute; Kenya}
 \cvitemwithcomment{2020}{Chief Science Officers "Zoom In On Science" Guest}{SciTech Institute; Sonora, Mexico}
 \cvitemwithcomment{2019}{Volunteer Field Ornithology TA}{UTEP-IMRS Field Biology Course}
@@ -265,25 +246,22 @@ I have mentored seven undergraduate students in field biology, physiology, and m
 
 \section{Professional Memberships}
 Society for the Study of Amphibians and Reptiles (SSAR) \\
-Society for Integrative and Comparative Biology (SICB) \\
 Society of Systematic Biologists (SSB) \\
 Society for the Study of Evolution (SSE) \\
 American Genetics Association (AGA) \\
 Sigma Xi \\
 
-%\section{Acknowledged In}
-%\begin{refsection}[acks.bib]
-%\nocite{*}
-%\printbibliography[heading=none]
-%\end{refsection}
+\section{Acknowledged In}
+\begin{refsection}[acks.bib]
+\nocite{*}
+\printbibliography[heading=none]
+\end{refsection}
+\end{document}
 
-\section{Scholarly Reviews}
+\section{Reviewed Journals}
 Molecular Ecology \\
 Biological Journal of the Linnean Society \\
 Herpetologica \\
 Entomology, Ornithology, \& Herpetology: Current Research \\
-
-\end{document}
-
 
 %% end of file `template.tex'.

@@ -1,49 +1,49 @@
-[0] Config.pm:302> INFO - This is Biber 2.11
-[0] Config.pm:305> INFO - Logfile is 'CV.blg'
-[46] biber-darwin:313> INFO - === Mon Apr  5, 2021, 15:02:40
-[105] Biber.pm:371> INFO - Reading 'CV.bcf'
-[213] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[213] Biber.pm:854> INFO - Using all citekeys in bib section 1
-[214] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[214] Biber.pm:854> INFO - Using all citekeys in bib section 2
-[214] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[214] Biber.pm:854> INFO - Using all citekeys in bib section 3
-[214] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[214] Biber.pm:854> INFO - Using all citekeys in bib section 4
-[215] Biber.pm:857> INFO - Found 0 citekeys in bib section 0
-[262] Biber.pm:3976> INFO - Processing section 1
-[287] Biber.pm:4136> INFO - Looking for bibtex format file 'pubs.bib' for section 1
-[289] bibtex.pm:1500> INFO - LaTeX decoding ...
-[302] bibtex.pm:1316> INFO - Found BibTeX data source 'pubs.bib'
-[394] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[395] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[395] Biber.pm:3804> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
-[395] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[404] Biber.pm:3976> INFO - Processing section 2
-[405] Biber.pm:4136> INFO - Looking for bibtex format file 'prep.bib' for section 2
-[406] bibtex.pm:1500> INFO - LaTeX decoding ...
-[414] bibtex.pm:1316> INFO - Found BibTeX data source 'prep.bib'
-[450] Utils.pm:193> WARN - year field 'planned submission April 2020' in entry 'klabacka2021whiptail' is not an integer - this will probably not sort properly.
-[494] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[494] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[495] Biber.pm:3804> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
-[495] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[501] Biber.pm:3976> INFO - Processing section 3
-[501] Biber.pm:4136> INFO - Looking for bibtex format file 'pres.bib' for section 3
-[504] bibtex.pm:1500> INFO - LaTeX decoding ...
-[526] bibtex.pm:1316> INFO - Found BibTeX data source 'pres.bib'
-[732] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[732] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[733] Biber.pm:3804> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
-[733] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[752] Biber.pm:3976> INFO - Processing section 4
-[752] Biber.pm:4136> INFO - Looking for bibtex format file 'acks.bib' for section 4
-[757] bibtex.pm:1500> INFO - LaTeX decoding ...
-[769] bibtex.pm:1316> INFO - Found BibTeX data source 'acks.bib'
-[847] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[847] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[847] Biber.pm:3804> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
-[847] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[855] bbl.pm:617> INFO - Writing 'CV.bbl' with encoding 'UTF-8'
-[906] bbl.pm:720> INFO - Output to CV.bbl
-[907] Biber.pm:110> INFO - WARNINGS: 1
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'CV.blg'
+[72] biber-darwin:340> INFO - === Mon Apr  5, 2021, 21:23:51
+[87] Biber.pm:415> INFO - Reading 'CV.bcf'
+[170] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[170] Biber.pm:949> INFO - Using all citekeys in bib section 1
+[170] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[170] Biber.pm:949> INFO - Using all citekeys in bib section 2
+[170] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[170] Biber.pm:949> INFO - Using all citekeys in bib section 3
+[170] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[171] Biber.pm:949> INFO - Using all citekeys in bib section 4
+[171] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[200] Biber.pm:4340> INFO - Processing section 1
+[213] Biber.pm:4531> INFO - Looking for bibtex format file 'pubs.bib' for section 1
+[214] bibtex.pm:1689> INFO - LaTeX decoding ...
+[219] bibtex.pm:1494> INFO - Found BibTeX data source 'pubs.bib'
+[288] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[288] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[288] Biber.pm:4168> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[288] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[293] Biber.pm:4340> INFO - Processing section 2
+[293] Biber.pm:4531> INFO - Looking for bibtex format file 'prep.bib' for section 2
+[294] bibtex.pm:1689> INFO - LaTeX decoding ...
+[296] bibtex.pm:1494> INFO - Found BibTeX data source 'prep.bib'
+[318] Utils.pm:395> WARN - legacy year field 'planned submission April 2020' in entry 'klabacka2021whiptail' is not an integer - this will probably not sort properly.
+[328] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[328] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[328] Biber.pm:4168> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[328] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[332] Biber.pm:4340> INFO - Processing section 3
+[333] Biber.pm:4531> INFO - Looking for bibtex format file 'pres.bib' for section 3
+[334] bibtex.pm:1689> INFO - LaTeX decoding ...
+[343] bibtex.pm:1494> INFO - Found BibTeX data source 'pres.bib'
+[442] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[442] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[442] Biber.pm:4168> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[443] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[454] Biber.pm:4340> INFO - Processing section 4
+[454] Biber.pm:4531> INFO - Looking for bibtex format file 'acks.bib' for section 4
+[455] bibtex.pm:1689> INFO - LaTeX decoding ...
+[460] bibtex.pm:1494> INFO - Found BibTeX data source 'acks.bib'
+[495] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[495] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[495] Biber.pm:4168> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[495] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[499] bbl.pm:654> INFO - Writing 'CV.bbl' with encoding 'UTF-8'
+[533] bbl.pm:757> INFO - Output to CV.bbl
+[533] Biber.pm:128> INFO - WARNINGS: 1
