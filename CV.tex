@@ -1,4 +1,4 @@
-%% start of file `template.tex'.
+
 %% Copyright 2006-2015 Xavier Danaux (xdanaux@gmail.com).
 %
 % This work may be distributed and/or modified under the
@@ -10,7 +10,20 @@
 % moderncv themes
 \moderncvstyle{banking}                             % style options are 'casual' (default), 'classic', 'banking', 'oldstyle' and 'fancy'
 \moderncvcolor{blue}                               % color options 'black', 'blue' (default), 'burgundy', 'green', 'grey', 'orange', 'purple' and 'red'
+
 \usepackage{tabto}
+%% end of file `template.tex'.
+% For header:
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+%\fancyhf{}
+\rhead{\color{gray}Klabacka}
+\lhead{\color{gray}CV}
+\rfoot{Page \thepage}
 %\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
 %\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
 
@@ -20,14 +33,15 @@
 
 % adjust the page margins
 \usepackage[scale=0.75]{geometry}
+
 %\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
 %\setlength{\makecvheadnamewidth}{10cm}            % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
 \name{Randy}{Klabacka}
 \title{\Large{curriculum vitae}}                               % optional, remove / comment the line if not wanted
 %\phone[mobile]{+1~(234)~567~890}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
-\email{klabacka.randy@auburn.edu}                               % optional, remove / comment the line if not wanted
+\email{    rlk0015@auburn.edu}                               % optional, remove / comment the line if not wanted
 \homepage{randyklabacka.com}                         % optional, remove / comment the line if not wanted
-\social[twitter]{@HumbleHerper}                             % optional, remove / comment the line if not wanted
+%\social[twitter]{@HumbleHerper}                             % optional, remove / comment the line if not wanted
 \social[github]{rklabacka}                              % optional, remove / comment the line if not wanted
 \address{331 Fuchess Hall}{Auburn University, AL}{USA}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
 %\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
@@ -117,12 +131,12 @@
 \makecvtitle
 
 \section{Education}
-\cventry{}{Department of Biological Sciences}{Ph.D. Candidate in Biological Sciences}{anticipated 2022}{\textit{Auburn University}}{Advisors: Drs. Jamie Oaks \& Tonia Schwartz}  % arguments 3 to 6 can be left empty
+\cventry{}{Department of Biological Sciences}{Ph.D. Candidate in Biological Sciences}{scheduled 2022}{\textit{Auburn University}}{Advisors: Drs. Jamie Oaks \& Tonia Schwartz}  % arguments 3 to 6 can be left empty
 \cventry{}{Department of Biology}{B.S. in Biology}{2016}{\textit{Brigham Young University}}{Advisors: Drs. Jack Sites \& Chad Hancock}  % arguments 3 to 6 can be left empty
 
 \section{Grants, Fellowships, and Scholarships}
 \cvitemwithcomment{2020}{EECG Research Award (American Genetics Association)}{\$8,000}
-\small{\tabto{1.25cm}Genomic and bioenergetics costs of asexuality in a vertebrate system (\textit{Aspidoscelis})} \\
+\small{\tabto{1.25cm}Genomic and bioenergetic costs of asexuality in a vertebrate system (\textit{Aspidoscelis})} \\
 \cvitemwithcomment{2017}{CMB Peaks of Excellence Research Fellowship (Auburn University)}{\$4,500}
 \small{\tabto{1.25cm}Mitonuclear distancing: The baggage of an asexual reproductive strategy} \\
 \cvitemwithcomment{2017}{Meredith Birchfield Endowed Fund for Excellence (Auburn Univ Museum of Natural History)}{\$1500}
@@ -132,12 +146,12 @@
 \cvitemwithcomment{2012-15}{Undergraduate Academic Scholarships (BYU)}{\$11,987}
 
 \section{Awards}
-\cvitemwithcomment{2019}{COSAM Travel Award (Auburn University)}{\$300}
-\small{\tabto{1.25cm}Funding to present research at 9th World Congress of Herpetology} \\
 \cvitemwithcomment{2019}{1st Place - Henri Seibert Competition Systematics \& Evolution Category (SSAR)}{\$200}
-\small{\tabto{1.25cm}Riverine barriers as potential drivers of biodiversification in /textit{Draco maculatus}} \\
+\small{\tabto{1.25cm}Riverine barriers as potential drivers of biodiversification in \textit{Draco maculatus}} \\
 \cvitemwithcomment{2019}{Trees in the Desert Workshop (NSF - University of Arizona)}{\$1,000}
 \small{\tabto{1.25cm}funded workshop (covering travel, lodging, food, and workshop} \\
+\cvitemwithcomment{2019}{COSAM Travel Award (Auburn University)}{\$300}
+\small{\tabto{1.25cm}Funding to present research at 9th World Congress of Herpetology} \\
 \cvitemwithcomment{2017}{NSF Travel Grant (Society of Systematics Biology Meeting)}{\$500}
 \small{\tabto{1.25cm}Funding to present research at 2017 SSB meeting} \\
 \cvitemwithcomment{2015}{3rd Place - HBLL College of Life Sciences Poster Competition (BYU)}{\$300}
@@ -150,20 +164,26 @@
 \section{Peer-reviewed Publications}
 \begin{refsection}[pubs.bib]
 \nocite{*}
+\renewbibmacro*{in:}{%
+   {}
+  }
 \printbibliography[heading=none]
 \end{refsection}
 
-\section{Manuscripts In-review}
+\section{Manuscripts in-review and in-prep}
 \begin{refsection}[prep.bib]
 \nocite{*}
+\renewbibmacro*{in:}{%
+   {}
+  }
 \printbibliography[heading=none]
 \end{refsection}
 
 \section{Invited Seminars}
-\cvitemwithcomment{2019}{Museum of Natural Science Seminar Series}{Louisiana State University}
-\footnotesize{\tabto{1.25cm}Riverine barriers as drivers of biodiversification in terrestrial fauna of Southeast Asia} \\
-\cvitemwithcomment{2021}{Workshop on Fostering Idealogical Awareness}{Auburn University}
-\footnotesize{\tabto{1.25cm}Teaching evolution to students of faith: How instructors can help students overcome barriers}
+\small{\cvitemwithcomment{2021}{Workshop on Fostering Idealogical Awareness}{Auburn University}}
+\footnotesize{\tabto{1.25cm}Teaching evolution to students of faith: How instructors can help students overcome barriers} \\
+\small{\cvitemwithcomment{2019}{Museum of Natural Science Seminar Series}{Louisiana State University}}
+\footnotesize{\tabto{1.25cm}Riverine barriers as drivers of biodiversification in terrestrial fauna of Southeast Asia}
 \small{\tabto{1.25cm}}
 
 % Presentations section using biblatex
@@ -174,14 +194,26 @@
 \end{refsection}
 
 \section{Mentorship}
-I have mentored seven undergraduate students in field biology, physiology, and molecular lab work. Current positions of these students include veterinary school, lab/field tech, M.S. evol/ecol student, undergraduate research assistant, and working on manuscripts for peer-reviewed publications.
+I have mentored seven undergraduate students in bioinformatics, field biology, and molecular lab work. Three of these undergraduates published research with me as co-authors. Current positions of these students include veterinary school, hydrology technician, M.S. evol/ecol graduate school, undergraduate research assistant, and working on manuscripts for peer-reviewed publications.
 
 \section{Teaching Experience}
-\subsection{{Instructor of Record}\footnotesize{........................................................................................................................................}}
+\subsection{{Course Instructor}\footnotesize{........................................................................................................................................}}
 \begin{itemize}
-    \item{\cvitemwithcomment{2021}{Genetics (BIOL 3000)}{Online and Asynchronous}}
+    \item{\cvitemwithcomment{2022}{BIOL 7180: Scripting for Biologists}{Online and Synchronous}}
+    \item{\cvitemwithcomment{2021}{BIOL 3000: Genetics}{Online and Asynchronous}}
 \end{itemize}
-\subsection{{Guest Lectures}\footnotesize{..............................................................................................................................Instructor(s)}}
+\subsection{{Teaching Assistantships}\footnotesize{...............................................................................................................Instructor(s)}}
+\begin{itemize}
+    \item{\cvitemwithcomment{2021}{BIOL 7180: Scripting for Biologists}{Jamie Oaks}}
+    \item{\cvitemwithcomment{2020}{BIOL 4020: Vertebrate Biodiversity Lab}{Dan Warner}}
+    \item{\cvitemwithcomment{2020}{BIOL 5740/6740: Herpetology Lab}{Jamie Oaks \& Dan Warner}}
+    \item{\cvitemwithcomment{2019}{BIOL 4020: Vertebrate Biodiversity Lab}{Joshua Hall}}
+    \item{\cvitemwithcomment{2018}{BIOL 5240/6240: Animal Physiology Lab}{Ray Henry}}
+    \item{\cvitemwithcomment{2017-2019}{BIOL 5600/6600: Biomedical Physiology Lab}{Mary Mendonca}}
+    \item{\cvitemwithcomment{2016}{BIOL 2501: Anatomy and Physiology Lab}{Shobnom Ferdous}}
+    \item{\cvitemwithcomment{2013-2016}{BIO 130 Lab: Principles of Biology}{Keoni Kauwe \& Byron Adams}}
+\end{itemize}
+\subsection{{Guest Lectures}\footnotesize{...............................................................................................................................Instructor(s)}}
 \begin{itemize}
 \item{\cvitemwithcomment{2021}{Mitonuclear Ecology (BIOL 6750)}{The evolution of sex}}
 \item{\cvitemwithcomment{2021}{Scripting for Biologists (BIOL 7180)}{Creating python classes \& using random number generators}}
@@ -193,21 +225,85 @@ I have mentored seven undergraduate students in field biology, physiology, and m
 \item{\cvitemwithcomment{2016}{Principles of Biology}{The domains of life}}
 \item{\cvitemwithcomment{2016}{Principles of Biology}{The central dogma of biology}}
 \end{itemize}
-\subsection{{Teaching Assistantships}\footnotesize{...............................................................................................................Instructor(s)}}
-\begin{itemize}
-    \item{\cvitemwithcomment{2021}{BIOL 7180: Scripting for Biologists}{Jamie Oaks}}
-    \item{\cvitemwithcomment{2020}{BIOL 4020: Vertebrate Biodiversity Lab}{Dan Warner}}
-    \item{\cvitemwithcomment{2020}{BIOL 5740/6740: Herpetology Lab}{Jamie Oaks \& Dan Warner}}
-    \item{\cvitemwithcomment{2019}{BIOL 4020: Vertebrate Biodiversity Lab}{Joshua Hall}}
-    \item{\cvitemwithcomment{2018}{BIOL 5240/6240: Animal Physiology Lab}{Ray Henry}}
-    \item{\cvitemwithcomment{2017-2019}{BIOL 5600/6600: Biomedical Physiology Lab}{Mary Mendonca}}
-    \item{\cvitemwithcomment{2016}{BIOL 2501: Anatomy and Physiology Lab}{Shobnom Ferdous}}
-    \item{\cvitemwithcomment{2013-2016}{BIO 130: Principles of Biology}{Instructors: Keoni Kauwe \& Byron Adams)}}
+
+\section{Summary of Teaching Evaluations}
+\subsection{Auburn University: Instructor}
+{Students used a Likert scale (1–6; higher number is better) to anonymously respond to the following:\\ (A) "The instructor's overall performance was"\\(B) "My overall learning in the class was"\\(C) "I was prompted to think critically about the course material"\\(D) "I was provided an environment that supported my learning"}\\ \\
+\begin{tabular}{ p{3cm}p{3cm}p{1.5cm}p{1.5cm}p{1.5cm}p{1.5cm}p{1.5cm}  }
+ \hline
+Course & Semester (n) & A & B & C & D \\
+ \hline
+ BIOL 3000 & Fall 2021 (28) & 5.5 & 4.9 & 5.7 & 5.2  \\
+ \hline
+\end{tabular} \\
+{\tiny{n = number of students who participated in the survey}} \par
+ {Select evaluation comments:} 
+ \begin{itemize}
+     \item{\footnotesize{\textit{Even as an \textbf{online professor}, he is more personable, helpful, and genuine than many in person professors I've had. The amount of work and effort he puts into his class to give us a fantastic grasp of all the concepts is clear.}}}
+ \item{\footnotesize{\textit{He was easy to approach and you could tell he really cared about his students. His tests are set up in a manner to \textbf{test your understanding} of a topic rather than to just memorize what he said. I would absolutely take him as a professor again.}}} 
+ \item{\footnotesize{\textit{He was very helpful whenever an issue arose and was very willing to help. \textbf{He responded to emails very quickly and gave thorough responses} to help whatever the question was. He did a great job and really cared about the success that his students had.}}}
 \end{itemize}
-\subsection{Professional Development}
+{\footnotesize{(Complete teaching evaluations are available upon request)}}
+\subsection{Auburn University: Teaching Assistant}
+{Students used a Likert scale (1–6; higher number is better) to anonymously respond to the following:\\ (A) "The laboratory instructor was an effective teaching assistant"\\(B) "The laboratory instructor listened and answered student’s questions well"\\(C) "The laboratory instructor enhanced my interest in the subjects covered by labs"\\(D) "The laboratory instructor created an environment that was conducive to learning in the lab" \\ (E) "The laboratory instructor was respectful of students" }\\ \\
+\begin{tabular}{ p{3cm}p{3cm}p{1.5cm}p{1.5cm}p{1.5cm}p{1.5cm}p{1.5cm}  }
+ \hline
+Course & Semester (n) & A & B & C & D & E \\
+ \hline
+ BIOL 7180 & Spring 2021 (9) & 5.8 & 5.8 & 5.7 & 5.8 & 6.0 \\
+ BIOL 4020* & Fall 2020 (21) & 5.7 & 6.0 & 6.0 & 5.7 & 6.0 \\
+ BIOL 5740/6240 & Spring 2019 (20)  & 5.7    & 5.9 & 5.6 & 5.7 & 5.9 \\
+ BIOL 4020 & Fall 2019 (25)  & 5.6    & 5.6 & 5.3 & 5.4 & 5.9  \\
+ \hline
+\end{tabular} \\
+{\tiny{n = number of students who participated in the survey}} \\
+ {\tiny{Teaching evaluations were not made available to TAs for BIOL 5240/6240, BIOL 5600/6600, and BIOL 2501}} \\
+ {\tiny{* During this course I trained a new TA. Evaluation scores are for both of us}} \par
+ {Select evaluation comments:} 
+ \begin{itemize}
+ \item{\footnotesize{\textit{He required a lot out of us for the purpose of helping us \textbf{prepare for the workforce or post-undergraduate education} which I appreciated.}}}
+\item{\footnotesize{\textit{Randy was very helpful during our time in class and was \textbf{good at communicating} with us when we went online only.}}}
+\item{\footnotesize{\textit{They were approachable and worked closely with me to make sure I not only had a good understanding of the material but was \textbf{prepared to succeed.}}}}
+\item{\footnotesize{\textit{I really enjoyed learning from them, and \textbf{found myself digging deeper into subjects}. They encouraged all of us during our coursework and \textbf{provided amazing feedback}. They are clearly \textbf{passionate} about what they do.}}} \\
+\end{itemize}
+{\footnotesize{(Complete teaching evaluations are available upon request)}}
+
+
+\subsection{Brigham Young University}
+{Students anonymously responded to the question "How well do you feel the lab instructor performed his responsibility overall?" }\\ \\
+\begin{tabular}{ p{3cm}p{3cm}p{2cm}p{2cm}p{2cm}p{2cm}  }
+ \hline
+Course & Semester (n) & Excellent & Pretty Well & Acceptable & Poor \\
+ \hline
+ BIO 130 (Lab) & Fall 2013 (27)  & 93\%    & 7\% & 0 & 0 \\
+ BIO 130 (Lab) & Winter 2014 (14) &   79\%  & 21\%  & 0 & 0 \\
+ BIO 130 (Lecture) & Winter 2015 (21) & 90\% & 5\% & 5\%  & 0 \\
+ BIO 130 (Lecture) & Winter 2016 (23) & 96\% & 4\% & 0 & 0 \\
+ \hline
+\end{tabular} \\
+{\tiny{n = number of students who participated in the survey}} \par
+ {Select evaluation comments:}
+ \begin{itemize}
+ \item{\footnotesize{\textit{Willing to help at all times. Great with answering through emails and \textbf{encouraged and uplifted} other students.}}}
+ \item{\footnotesize{\textit{He went above and beyond to be accessible and help students with their \textbf{individual needs}. He was \textbf{invested in the success} of his students. Randy knew the material well and was extremely \textbf{fair in his grading}.}}}
+ \item{\footnotesize{\textit{I really liked working with Randy cause he has a \textbf{sincere desire to help} and really knows his stuff. I always felt really comfortable approaching him with questions or things I didn't understand.}}}
+ \end{itemize}
+{\footnotesize{(Complete teaching evaluations are available upon request)}}
+
+\section{Professional Development}
 \begin{itemize}
-\item{\cvitemwithcomment{2020}{Inroduction to Discipline-Based Education Research - graduate course}{Instructor: Cissy Ballen}}
-\item{\cvitemwithcomment{2018}{Creating an active learning classroom - professional workshop}{Host: AU Biggio Center}}
+\item{\cvitemwithcomment{2021}{Fostering ideological awareness - professional workshop}{Organizer: Dr. Abby Beatty}}
+\begin{itemize}
+\item{\footnotesize{Week-long, inter-institutional workshop where collaborators presented research and collaboratively created open-source course modules for contextualizing societal and ethical impacts of applied biology.}}
+\end{itemize}
+\item{\cvitemwithcomment{2020}{Inroduction to Discipline-Based Education Research - graduate course}{Instructor: Dr. Cissy Ballen}}
+\begin{itemize}
+\item{\footnotesize{Semester-long graduate course focused on topics, literature, and methods of discipline-based education research, with an emphasis on active-learning teaching strategies. As part of this course, we published a manuscript on barriers to introductory biology students (see Tracey et al. in Manuscripts In-review section)}}
+\end{itemize}
+\item{\cvitemwithcomment{2018}{Engaged and Active Student Learning - professional workshop}{Host: AU Biggio Center}}
+\begin{itemize}
+\item{\footnotesize{Half-day workshop , literature, and methods of discipline-based education research, with an emphasis on active-learning teaching strategies.}}
+\end{itemize}
 \end{itemize}
 
 
@@ -218,8 +314,8 @@ I have mentored seven undergraduate students in field biology, physiology, and m
     \item{\cvitemwithcomment{Summer 2020}{Phylogenetics}{Jamie Oaks}}
     \item{\cvitemwithcomment{Summer 2019}{Phylogenetics}{Jamie Oaks}}
     \item{\cvitemwithcomment{Summer 2018}{Functional Genomics}{Tonia Schwartz}}
-    \item{\cvitemwithcomment{2013-2016}{Phylogenetic Systematics}{Jack Sites}}
-    \item{\cvitemwithcomment{2013-2016}{Metabolic Physiology and Bioenergetics}{Chad Hancock}}
+    \item{\cvitemwithcomment{2013-16}{Phylogenetic Systematics}{Jack Sites}}
+    \item{\cvitemwithcomment{2013-16}{Metabolic Physiology and Bioenergetics}{Chad Hancock}}
 \end{itemize}
 
 \section{Field Experience}
@@ -259,19 +355,27 @@ I have mentored seven undergraduate students in field biology, physiology, and m
 	\item{Led multiple collection- and research-based field trips in TX, NM, and AZ}
 \end{itemize}
 
-\section{Outreach, Community Service, and Relevant Positions} 
-\cvitemwithcomment{2020-}{QuickGRITS podcast}{Creator \& host}
-\cvitemwithcomment{2021}{Safe techniques for handling snakes: Instructor}{E. W. Shell Fisheries, Auburn University}
+\section{Outreach and Community Service} 
+\cvitemwithcomment{2020-present}{QuickGRITS podcast: \href{http://randyklabacka.com/quickGRITS}{\color{blue}link} (available on Spotify)} {Creator}
 \cvitemwithcomment{2020}{Chief Science Officers "Zoom In On Science" Guest}{SciTech Institute; Kenya}
 \cvitemwithcomment{2020}{Chief Science Officers "Zoom In On Science" Guest}{SciTech Institute; Sonora, Mexico}
 \cvitemwithcomment{2019}{Volunteer Field Ornithology TA}{UTEP-IMRS Field Biology Course}
-\cvitemwithcomment{2019}{STEM Discovery Day instructor}{Auburn University}
-\cvitemwithcomment{2018-}{Grad Chair - Dept. of Biol. Sciences Seminar Series}{Auburn University}
-\cvitemwithcomment{2018-}{Member of the Snake Response Team}{Auburn University}
 \cvitemwithcomment{2018}{Volunteer Field Herpetology TA}{UTEP-IMRS Field Biology Course}
 \cvitemwithcomment{2016}{Reptile and Amphibian Studies Scout Merit Badge Instructor}{Boy Scouts of America}
-\cvitemwithcomment{2016-2018}{Natural History Museum Open House Representative}{Auburn University}
-\cvitemwithcomment{2015-2016}{Co-president/founder of Life Sciences Pre-Graduate Student Club}{BYU}
+
+\section{Department and University Service}
+\cvitemwithcomment{2022 (upcoming)}{DBS Seminar Host Chair - Brandon Ogbunu Visit (Princeton)}{Auburn University}
+\cvitemwithcomment{2018-present}{Member of the Snake Response Team}{Auburn University}
+\cvitemwithcomment{2021}{Safe techniques for handling snakes: Instructor}{E. W. Shell Fisheries, Auburn University}
+\cvitemwithcomment{2021}{DBS Seminar Host Committee Member - Rebecca Tarvin Visit (UC- Berkeley)}{Auburn University}
+\cvitemwithcomment{2019}{Grad Representative - Global Change Biology Hiring Committee}{Auburn University}
+\cvitemwithcomment{2019}{STEM Discovery Day instructor}{Auburn University}
+\cvitemwithcomment{2018}{DBS Seminar Host Chair - Matt Fujita Visit (UT- Arlington)}{Auburn University}
+\cvitemwithcomment{2018}{DBS Seminar Host Chair - Marjorie Oleksiak Visit (U Miami)}{Auburn University}
+\cvitemwithcomment{2016-18}{Natural History Museum Open House Representative}{Auburn University}
+\cvitemwithcomment{2017}{DBS Seminar Host Committee Member - Peter Andolfatto Visit (Princeton)}{Auburn University}
+\cvitemwithcomment{2017}{DBS Seminar Host Committee Member - Armin Moczek Visit (Indiana Univ)}{Auburn University}
+\cvitemwithcomment{2015-16}{Co-president/founder of Life Sciences Pre-Graduate Student Club}{BYU}
 \cvitemwithcomment{2015}{Host for the BYU-sponsored "Night at the Museum"}{Monte L. Bean Life Science Museum}
 \cvitemwithcomment{2014}{Tour guide for LSB opening- President's Leadership Council dinner}{Brigham Young University}
 
@@ -280,8 +384,7 @@ Society for the Study of Amphibians and Reptiles (SSAR) \\
 Society for Integrative and Comparative Biology (SICB) \\
 Society of Systematic Biologists (SSB) \\
 Society for the Study of Evolution (SSE) \\
-American Genetics Association (AGA) \\
-Sigma Xi \\
+American Genetics Association (AGA) 
 
 %\section{Acknowledged In}
 %\begin{refsection}[acks.bib]
@@ -298,4 +401,3 @@ Entomology, Ornithology, \& Herpetology: Current Research \\
 \end{document}
 
 
-%% end of file `template.tex'.
