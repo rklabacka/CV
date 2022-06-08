@@ -650,6 +650,83 @@
 
 \refsection{2}
   \datalist[entry]{ymdnt/global//global/global}
+    \entry{ControversialBiolTopics}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=10d2a60a398378e7b16efefec8fcab78}{%
+           family={Beatty},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15748af9a6ba60983db7052322f24e12}{%
+           family={Henning},
+           familyi={H\bibinitperiod},
+           given={Jeremiah},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5b9712a11ac4463c601f299b10501feb}{%
+           family={Driessen},
+           familyi={D\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb88bdbb6fddeec6269202496aa5745b}{%
+           family={Costello},
+           familyi={C\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b68878df53ec0cfdc40ccb70a7ed7ce5}{%
+           family={Ewell},
+           familyi={E\bibinitperiod},
+           given={Sharday},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f58e8aee1ca22235b94dd7594c3cef6}{%
+           family={\textbf{Klabacka,\bibnamedelimb Randy}},
+           familyi={K\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=10bdafee5bf25aae020a8b8bcc21bf9f}{%
+           family={Lamb},
+           familyi={L\bibinitperiod},
+           given={Todd},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1128a784939d9ae32ebaac2b67110216}{%
+           family={Mulligan},
+           familyi={M\bibinitperiod},
+           given={Kimberly},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6220b53501dd12230261812e70d4eb8}{%
+           family={Fagbodum},
+           familyi={F\bibinitperiod},
+           given={Sheritta},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cee74c5166334223bab32c5bf993359e}{%
+           family={Ballen},
+           familyi={B\bibinitperiod},
+           given={Cissy},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{efa48376cd3fe850643b8ce2818a5347}
+      \strng{fullhash}{a311b3267dbc1adcf9b0d77b479556fa}
+      \strng{bibnamehash}{a311b3267dbc1adcf9b0d77b479556fa}
+      \strng{authorbibnamehash}{a311b3267dbc1adcf9b0d77b479556fa}
+      \strng{authornamehash}{efa48376cd3fe850643b8ce2818a5347}
+      \strng{authorfullhash}{a311b3267dbc1adcf9b0d77b479556fa}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{submitted to Cell Biology Education}
+      \field{title}{How and why instructors discuss controversial topics in biology}
+      \field{year}{2022}
+      \true{nocite}
+    \endentry
     \entry{GarterSnake}{article}{}
       \name{author}{9}{}{%
         {{un=0,uniquepart=base,hash=0f58e8aee1ca22235b94dd7594c3cef6}{%
