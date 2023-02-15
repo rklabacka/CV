@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.5)  8 JUN 2022 16:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.5)  15 FEB 2023 14:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1448,26 +1448,26 @@ Overfull \hbox (6.0212pt too wide) in paragraph at lines 203--203
  []
 
 
-Underfull \hbox (badness 10000) detected at line 205
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 204.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 204--204
+[][] [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 205.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 205--205
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 207
 \T1/cmss/m/n/8 .
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 207.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 207--207
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 208.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 208--208
-[][] [] 
  []
 
 
@@ -1525,26 +1525,26 @@ Overfull \hbox (6.0212pt too wide) in paragraph at lines 214--214
  []
 
 
-Underfull \hbox (badness 10000) detected at line 216
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 215.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 215--215
+[][] [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 216.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 216--216
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 218
 \T1/cmss/m/n/8 .
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 218.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 218--218
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 219.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 219--219
-[][] [] 
  []
 
 
@@ -1611,6 +1611,15 @@ Overfull \hbox (6.0212pt too wide) in paragraph at lines 226--226
  []
 
 
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 227.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 227--227
+[][] [] 
+ []
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
 (fancyhdr)                \setlength{\headheight}{13.59999pt}.
@@ -1621,80 +1630,76 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [4]
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 229.
+(Font)              using `T1/cmss/bx/n' instead on input line 228.
 
 
-Underfull \hbox (badness 10000) detected at line 231
-\T1/cmss/m/n/8 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--241
-
- []
-
-
-Underfull \hbox (badness 10000) detected at line 249
-\T1/cmss/m/n/8 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--263
-
- []
-
-
-Underfull \hbox (badness 10000) detected at line 273
-\T1/cmss/m/n/8 .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 274--285
-
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 228--228
+[][] [] 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 293.
+(Font)              using `T1/cmss/bx/n' instead on input line 231.
+
+
+Underfull \hbox (badness 10000) detected at line 233
+\T1/cmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--243
+
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 251
+\T1/cmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--265
+
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 275
+\T1/cmss/m/n/8 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--287
+
+ []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 295.
 
 
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 295--295
-[][] [] 
- []
-
-
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 297.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 297--297
+[][] [] 
+ []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 299.
 
 
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 299--299
-[][] [] 
- []
-
-
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 301.
 
 
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 303.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 303--303
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 301--301
 [][] [] 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 305.
+(Font)              using `T1/cmss/bx/n' instead on input line 303.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1707,29 +1712,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [5]
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 310.
+(Font)              using `T1/cmss/bx/n' instead on input line 305.
 
 
-Underfull \hbox (badness 10000) detected at line 311
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 305--305
+[][] [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 307.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 312.
+
+
+Underfull \hbox (badness 10000) detected at line 313
 \T1/cmss/m/n/8 .
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 313.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 313--313
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 314.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 314--314
-[][] [] 
  []
 
 
@@ -1779,11 +1779,21 @@ Overfull \hbox (6.0212pt too wide) in paragraph at lines 319--319
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 322.
+(Font)              using `T1/cmss/bx/n' instead on input line 320.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 320--320
+[][] [] 
+ []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 323.
+(Font)              using `T1/cmss/bx/n' instead on input line 321.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 321--321
+[][] [] 
+ []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
@@ -1823,25 +1833,28 @@ LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 333.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 334.
 
 
-Underfull \hbox (badness 10000) detected at line 335
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 336.
+
+
+Underfull \hbox (badness 10000) detected at line 337
 \T1/cmss/m/n/8 .
  []
 
 
-Underfull \hbox (badness 10000) detected at line 342
+Underfull \hbox (badness 10000) detected at line 344
 \T1/cmss/m/n/8 .
  []
 
 
-Underfull \hbox (badness 10000) detected at line 347
-\T1/cmss/m/n/8 .
- []
-
-
-Underfull \hbox (badness 10000) detected at line 352
+Underfull \hbox (badness 10000) detected at line 349
 \T1/cmss/m/n/8 .
  []
 
@@ -1854,13 +1867,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [6]
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 359.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 360.
+Underfull \hbox (badness 10000) detected at line 354
+\T1/cmss/m/n/8 .
+ []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
@@ -1888,11 +1897,11 @@ LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 368.
+(Font)              using `T1/cmss/bx/n' instead on input line 367.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 369.
+(Font)              using `T1/cmss/bx/n' instead on input line 368.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
@@ -1952,14 +1961,22 @@ LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 384.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 385.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 398.
+(Font)              using `T1/cmss/bx/n' instead on input line 387.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 399--403
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 400.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--405
 
  []
 
@@ -1971,7 +1988,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[7] (./CV.aux)
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8] (./CV.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1982,13 +2008,13 @@ Package logreq Info: Writing requests to 'CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29891 strings out of 478994
- 557838 string characters out of 5858185
- 1326755 words of memory out of 5000000
+ 29894 strings out of 478994
+ 557864 string characters out of 5858185
+ 1326766 words of memory out of 5000000
  46647 multiletter control sequences out of 15000+600000
- 433465 words of font info for 143 fonts, out of 8000000 for 9000
+ 433554 words of font info for 144 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,13n,116p,873b,1689s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 117i,12n,116p,873b,1689s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/lo
 cal/texlive/2021/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/loca
@@ -2008,10 +2034,10 @@ nts/type1/public/cm-super/sfsx1095.pfb></usr/local/texlive/2021/texmf-dist/font
 s/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/
 type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/ty
 pe1/public/cm-super/sfsx2488.pfb>
-Output written on CV.pdf (7 pages, 322690 bytes).
+Output written on CV.pdf (8 pages, 322902 bytes).
 PDF statistics:
- 281 PDF objects out of 1000 (max. 8388607)
- 251 compressed objects within 3 object streams
- 61 named destinations out of 1000 (max. 500000)
+ 286 PDF objects out of 1000 (max. 8388607)
+ 255 compressed objects within 3 object streams
+ 62 named destinations out of 1000 (max. 500000)
  42741 words of extra memory for PDF output out of 42996 (max. 10000000)
 

@@ -724,78 +724,54 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{submitted to Cell Biology Education}
       \field{title}{How and why instructors discuss controversial topics in biology}
-      \field{year}{2022}
+      \field{year}{2023}
       \true{nocite}
     \endentry
     \entry{GarterSnake}{article}{}
-      \name{author}{9}{}{%
-        {{un=0,uniquepart=base,hash=0f58e8aee1ca22235b94dd7594c3cef6}{%
-           family={\textbf{Klabacka,\bibnamedelimb Randy}},
-           familyi={K\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=bfa27b5cb708b9a54fb060dd5699e603}{%
-           family={Bronikowski},
-           familyi={B\bibinitperiod},
-           given={Anne},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5840e5ac5865d828326a8100ac8e6945}{%
-           family={McGaugh},
-           familyi={M\bibinitperiod},
-           given={Suzanne},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=9e1b3d11dab7199360b480c85b77675b}{%
-           family={Reding},
-           familyi={R\bibinitperiod},
-           given={Dawn},
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=093aefdeed09658d8635b9917e0a6462}{%
+           family={Warner},
+           familyi={W\bibinitperiod},
+           given={D.A.},
            giveni={D\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=dccc42768f8b420cc81a8e701538a7df}{%
-           family={Nettleton},
-           familyi={N\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod},
+        {{un=0,uniquepart=base,hash=195bfa09ed8718984bcb662917c777a4}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=fc622fe52ede65422a129fb392668079}{%
-           family={Lithio},
-           familyi={L\bibinitperiod},
-           given={Andrew},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a23cdf0e60523031ad4f4c8b09bfdeae}{%
-           family={Stevison},
-           familyi={S\bibinitperiod},
-           given={Laurie},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4f1a3f0c163b7a1eac99df103d593c1a}{%
-           family={Judson},
-           familyi={J\bibinitperiod},
-           given={Jessica},
+        {{un=0,uniquepart=base,hash=e14bdcf33e47602a6a2cbcb4f85ddfca}{%
+           family={Pruett},
+           familyi={P\bibinitperiod},
+           given={J.E.},
            giveni={J\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=ddefbe61b90817b940b8b72f236bd62e}{%
-           family={Schwartz},
-           familyi={S\bibinitperiod},
-           given={Tonia},
-           giveni={T\bibinitperiod},
+        {{un=0,uniquepart=base,hash=20484103b4e2bf0cc19f68e9d0a4c6d4}{%
+           family={Fargevieille},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
            givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb29786244265505dbd5b6d1b1ab6e42}{%
+           family={\textbf{Klabacka,\bibnamedelimb R.L.}},
+           familyi={K\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
       }
-      \strng{namehash}{b6a824520e2c8ca26e53c6e32e6b7ea9}
-      \strng{fullhash}{8c1528e64e5c3f396f87d0ee9fe9c066}
-      \strng{bibnamehash}{8c1528e64e5c3f396f87d0ee9fe9c066}
-      \strng{authorbibnamehash}{8c1528e64e5c3f396f87d0ee9fe9c066}
-      \strng{authornamehash}{b6a824520e2c8ca26e53c6e32e6b7ea9}
-      \strng{authorfullhash}{8c1528e64e5c3f396f87d0ee9fe9c066}
+      \strng{namehash}{bc92b5e495e8d12be5a48155b26b6c50}
+      \strng{fullhash}{5738edf4d896aee278e08ddbedf4f3d8}
+      \strng{bibnamehash}{5738edf4d896aee278e08ddbedf4f3d8}
+      \strng{authorbibnamehash}{5738edf4d896aee278e08ddbedf4f3d8}
+      \strng{authornamehash}{bc92b5e495e8d12be5a48155b26b6c50}
+      \strng{authorfullhash}{5738edf4d896aee278e08ddbedf4f3d8}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{in-prep for Aging Cell}
-      \field{title}{Evolution of targeted gene networks in divergent garter snake ecotypes}
-      \field{year}{2022}
+      \field{journaltitle}{accepted with minor revisions in Behavioral Ecology and Sociobiology}
+      \field{title}{Fluctuating environments hinder the ability of female lizards to choose suitable nest sites for their embryos}
+      \field{year}{2023}
       \true{nocite}
     \endentry
   \enddatalist
