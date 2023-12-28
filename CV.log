@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.5)  27 DEC 2023 15:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.5)  28 DEC 2023 16:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -590,7 +590,13 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen269
 \Gm@dimlist=\toks34
 )
-(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome/fontawesome.sty
+Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-ge
+neric.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pd
+ftex.tex)) (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2021/03/24 3.56 The Babel package
 
 (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.def
@@ -959,8 +965,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip119
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 128.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 128.
+Package hyperref Info: Option `breaklinks' set `true' on input line 141.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 141.
 
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
@@ -971,26 +977,26 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./CV.aux)
 \openout1 = `CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 128.
-LaTeX Font Info:    ... okay on input line 128.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 128.
-LaTeX Font Info:    ... okay on input line 128.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 128.
-LaTeX Font Info:    ... okay on input line 128.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 128.
-LaTeX Font Info:    ... okay on input line 128.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 128.
-LaTeX Font Info:    ... okay on input line 128.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 128.
-LaTeX Font Info:    ... okay on input line 128.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 128.
-LaTeX Font Info:    ... okay on input line 128.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 128.
-LaTeX Font Info:    ... okay on input line 128.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 128.
-LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
-28.
+41.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
@@ -1016,14 +1022,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 128.
+LaTeX Info: Redefining \microtypecontext on input line 141.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 128.
+LaTeX Info: Redefining \showhyphens on input line 141.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1100,9 +1106,9 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'CV.bbl' found.
 
 (./CV.bbl)
-Package biblatex Info: Reference section=0 on input line 128.
-Package biblatex Info: Reference segment=0 on input line 128.
-Package hyperref Info: Link coloring OFF on input line 128.
+Package biblatex Info: Reference section=0 on input line 141.
+Package biblatex Info: Reference segment=0 on input line 141.
+Package hyperref Info: Link coloring OFF on input line 141.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1115,9 +1121,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count440
 )
-LaTeX Info: Redefining \ref on input line 128.
-LaTeX Info: Redefining \pageref on input line 128.
-LaTeX Info: Redefining \nameref on input line 128.
+LaTeX Info: Redefining \ref on input line 141.
+LaTeX Info: Redefining \pageref on input line 141.
+LaTeX Info: Redefining \nameref on input line 141.
  (./CV.out) (./CV.out)
 \@outlinefile=\write5
 \openout5 = `CV.out'.
@@ -1126,7 +1132,7 @@ LaTeX Info: Redefining \nameref on input line 128.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 131.
+(Font)              using `T1/cmss/bx/n' instead on input line 144.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
@@ -1135,77 +1141,66 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
 LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 1
-31.
+44.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
+LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
+nput line 144.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
+File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
+)
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
+ut line 144.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
+File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
+)
+<google-scholar.pdf, id=123, 368.94818pt x 372.53287pt>
+File: google-scholar.pdf Graphic file (type pdf)
+<use google-scholar.pdf>
+Package pdftex.def Info: google-scholar.pdf  used on input line 144.
+(pdftex.def)             Requested size: 9.42409pt x 9.51996pt.
+
+
+pdfTeX warning: pdflatex (file ./twitx.pdf): PDF inclusion: found PDF version <
+1.6>, but at most version <1.5> allowed
+<twitx.pdf, id=125, 16.06pt x 16.06pt>
+File: twitx.pdf Graphic file (type pdf)
+<use twitx.pdf>
+Package pdftex.def Info: twitx.pdf  used on input line 144.
+(pdftex.def)             Requested size: 9.52016pt x 9.51996pt.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 131.
+(Font)              <10.95> on input line 144.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 131.
+(Font)              <8> on input line 144.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 131.
+(Font)              <6> on input line 144.
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 133.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 134.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 134.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 135.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 135.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 137.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 138.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 138.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 141.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 142.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 143.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 143.
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 144.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 146.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 147.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 147.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 148.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
@@ -1217,7 +1212,11 @@ LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 152.
+(Font)              using `T1/cmss/bx/n' instead on input line 151.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 151.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
@@ -1227,6 +1226,10 @@ LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 155.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 156.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 156.
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 157.
@@ -1249,7 +1252,27 @@ LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 166.
+(Font)              using `T1/cmss/bx/n' instead on input line 167.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 168.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 170.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 172.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 174.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 176.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1261,72 +1284,69 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 167--168
+ <./google-scholar.pdf> <./twitx.pdf>]
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 178.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 179.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 170.
+(Font)              using `T1/cmss/bx/n' instead on input line 183.
 
 \blx@maxsegment@1=\count441
 \blx@sectionciteorder@1=\count442
-Package biblatex Info: Reference section=1 on input line 171.
-Package biblatex Info: Setting label 'refsection:1' on input line 171.
+Package biblatex Info: Reference section=1 on input line 184.
+Package biblatex Info: Setting label 'refsection:1' on input line 184.
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 176.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 176.
+(Font)              using `T1/cmss/bx/n' instead on input line 189.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 176.
+(Font)              using `T1/cmss/bx/n' instead on input line 189.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 176.
+(Font)              using `T1/cmss/bx/n' instead on input line 189.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 176.
+(Font)              using `T1/cmss/bx/n' instead on input line 189.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 176.
+(Font)              using `T1/cmss/bx/n' instead on input line 189.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 176.
+(Font)              using `T1/cmss/bx/n' instead on input line 189.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 176.
+(Font)              using `T1/cmss/bx/n' instead on input line 189.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 176.
+(Font)              using `T1/cmss/bx/n' instead on input line 189.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 176.
+(Font)              using `T1/cmss/bx/n' instead on input line 189.
 
-Package biblatex Info: Reference section=0 on input line 177.
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 179.
-
-\blx@maxsegment@2=\count443
-\blx@sectionciteorder@2=\count444
-Package biblatex Info: Reference section=2 on input line 180.
-Package biblatex Info: Setting label 'refsection:2' on input line 180.
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 185.
+(Font)              using `T1/cmss/bx/n' instead on input line 189.
 
+Package biblatex Info: Reference section=0 on input line 190.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1338,64 +1358,76 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [2]
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 185.
+(Font)              using `T1/cmss/bx/n' instead on input line 192.
 
-Package biblatex Info: Reference section=0 on input line 186.
+\blx@maxsegment@2=\count443
+\blx@sectionciteorder@2=\count444
+Package biblatex Info: Reference section=2 on input line 193.
+Package biblatex Info: Setting label 'refsection:2' on input line 193.
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 188.
+(Font)              using `T1/cmss/bx/n' instead on input line 198.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 189.
+(Font)              using `T1/cmss/bx/n' instead on input line 198.
+
+Package biblatex Info: Reference section=0 on input line 199.
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 201.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 202.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 190.
+(Font)              <9> on input line 203.
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 191.
+(Font)              using `T1/cmss/bx/n' instead on input line 204.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 196.
+(Font)              using `T1/cmss/bx/n' instead on input line 209.
 
 \blx@maxsegment@3=\count445
 \blx@sectionciteorder@3=\count446
-Package biblatex Info: Reference section=3 on input line 197.
-Package biblatex Info: Setting label 'refsection:3' on input line 197.
+Package biblatex Info: Reference section=3 on input line 210.
+Package biblatex Info: Setting label 'refsection:3' on input line 210.
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
-Overfull \hbox (0.27077pt too wide) in paragraph at lines 199--199
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
+
+
+Overfull \hbox (0.27077pt too wide) in paragraph at lines 212--212
 \T1/cmss/m/n/10.95 (-20) (2020). ``The powerhouse of asexual cost? Endurance an
 d mitochondrial efficiency in parthenogenetic
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1408,68 +1440,68 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [3]
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 199.
+(Font)              using `T1/cmss/bx/n' instead on input line 212.
 
-Package biblatex Info: Reference section=0 on input line 200.
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 202.
-
+Package biblatex Info: Reference section=0 on input line 213.
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 205.
+(Font)              using `T1/cmss/bx/n' instead on input line 215.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 218.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/sb/n' undefined
-(Font)              using `T1/cmss/m/n' instead on input line 206.
+(Font)              using `T1/cmss/m/n' instead on input line 219.
 
 
-Underfull \hbox (badness 10000) detected at line 206
+Underfull \hbox (badness 10000) detected at line 219
 \T1/cmss/m/n/8 .
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 208.
+(Font)              using `T1/cmss/bx/n' instead on input line 221.
 
 
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 208--208
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 221--221
 [][] [] 
  []
 
@@ -1482,101 +1514,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [4]
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 209.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 209--209
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 210.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 210--210
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 211.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 211--211
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 212.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 212--212
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 213.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 213--213
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 214.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 214--214
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 215.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 215--215
-[][] [] 
- []
-
-
-Underfull \hbox (badness 10000) detected at line 217
-\T1/cmss/m/n/8 .
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 219.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 219--219
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 220.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 220--220
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 221.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 221--221
-[][] [] 
- []
-
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 222.
@@ -1605,35 +1542,35 @@ Overfull \hbox (6.0212pt too wide) in paragraph at lines 224--224
  []
 
 
-Underfull \hbox (badness 10000) detected at line 226
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 225.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 225--225
+[][] [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 226.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 226--226
+[][] [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 227.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 227--227
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 229
 \T1/cmss/m/n/8 .
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 228.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 228--228
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 229.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 229--229
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 230.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 230--230
-[][] [] 
  []
 
 
@@ -1709,87 +1646,147 @@ Overfull \hbox (6.0212pt too wide) in paragraph at lines 238--238
  []
 
 
+Underfull \hbox (badness 10000) detected at line 240
+\T1/cmss/m/n/8 .
+ []
+
+
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 239.
+(Font)              using `T1/cmss/bx/n' instead on input line 242.
 
 
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 239--239
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 242--242
 [][] [] 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 306.
+(Font)              using `T1/cmss/bx/n' instead on input line 243.
 
 
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 308.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 308--308
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 243--243
 [][] [] 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 310.
+(Font)              using `T1/cmss/bx/n' instead on input line 244.
 
 
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 312.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 312--312
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 244--244
 [][] [] 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 314.
+(Font)              using `T1/cmss/bx/n' instead on input line 245.
 
 
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 316.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 316--316
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 245--245
 [][] [] 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 318.
+(Font)              using `T1/cmss/bx/n' instead on input line 246.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 246--246
+[][] [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 247.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 247--247
+[][] [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 248.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 248--248
+[][] [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 249.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 249--249
+[][] [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 250.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 250--250
+[][] [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 251.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 251--251
+[][] [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 252.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 252--252
+[][] [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 253.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 253--253
+[][] [] 
+ []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 320.
 
 
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 320--320
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 322.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 322--322
 [][] [] 
  []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 322.
+(Font)              using `T1/cmss/bx/n' instead on input line 324.
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[5]
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 327.
+(Font)              using `T1/cmss/bx/n' instead on input line 326.
 
 
-Underfull \hbox (badness 10000) detected at line 328
-\T1/cmss/m/n/8 .
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 326--326
+[][] [] 
  []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 328.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
@@ -1802,30 +1799,7 @@ Overfull \hbox (6.0212pt too wide) in paragraph at lines 330--330
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 331.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 331--331
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 332.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 332--332
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 333.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 333--333
-[][] [] 
- []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
@@ -1838,87 +1812,154 @@ Overfull \hbox (6.0212pt too wide) in paragraph at lines 334--334
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 335.
-
-
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 335--335
-[][] [] 
- []
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 336.
 
 
-Overfull \hbox (6.0212pt too wide) in paragraph at lines 336--336
-[][] [] 
- []
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 339.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 340.
-
+[5]
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 341.
 
 
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 342.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 343.
+Underfull \hbox (badness 10000) detected at line 342
+\T1/cmss/m/n/8 .
+ []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 344.
 
 
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 344--344
+[][] [] 
+ []
+
+
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 345.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 345--345
+[][] [] 
+ []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 346.
 
 
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 346--346
+[][] [] 
+ []
+
+
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 347.
+
+
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 347--347
+[][] [] 
+ []
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 348.
 
 
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 348--348
+[][] [] 
+ []
+
+
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 349.
 
 
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 349--349
+[][] [] 
+ []
+
+
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 351.
+(Font)              using `T1/cmss/bx/n' instead on input line 350.
 
 
-Underfull \hbox (badness 10000) detected at line 352
+Overfull \hbox (6.0212pt too wide) in paragraph at lines 350--350
+[][] [] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 353.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 354.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 355.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 356.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 357.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 358.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 359.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 360.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 361.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 362.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 363.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 365.
+
+
+Underfull \hbox (badness 10000) detected at line 366
 \T1/cmss/m/n/8 .
  []
 
 
-Underfull \hbox (badness 10000) detected at line 360
+Underfull \hbox (badness 10000) detected at line 374
 \T1/cmss/m/n/8 .
  []
 
 
-Underfull \hbox (badness 10000) detected at line 365
+Underfull \hbox (badness 10000) detected at line 379
 \T1/cmss/m/n/8 .
  []
 
 
-Underfull \hbox (badness 10000) detected at line 370
+Underfull \hbox (badness 10000) detected at line 384
 \T1/cmss/m/n/8 .
  []
 
@@ -1931,58 +1972,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [6]
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 377.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 378.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 379.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 380.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 381.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 382.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 383.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 384.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 385.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 386.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 387.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 388.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 390.
-
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 391.
@@ -2002,6 +1991,10 @@ LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 395.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 396.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
@@ -2029,10 +2022,6 @@ LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 403.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 404.
 
 
@@ -2054,10 +2043,6 @@ LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 409.
-
-
-LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 410.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
@@ -2088,6 +2073,58 @@ LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
 (Font)              using `T1/cmss/bx/n' instead on input line 417.
 
 
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 418.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 419.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 420.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 421.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 422.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 423.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 424.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 425.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 426.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 427.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 428.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 429.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 430.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
 (fancyhdr)                \setlength{\headheight}{13.59999pt}.
@@ -2098,14 +2135,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [7]
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 419.
+(Font)              using `T1/cmss/bx/n' instead on input line 431.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
-(Font)              using `T1/cmss/bx/n' instead on input line 432.
+(Font)              using `T1/cmss/bx/n' instead on input line 433.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 433--437
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 446.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--451
 
  []
 
@@ -2128,38 +2169,41 @@ Package logreq Info: Writing requests to 'CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29938 strings out of 478994
- 558684 string characters out of 5858185
- 1321009 words of memory out of 5000000
- 46664 multiletter control sequences out of 15000+600000
- 436326 words of font info for 157 fonts, out of 8000000 for 9000
+ 31463 strings out of 478994
+ 580014 string characters out of 5858185
+ 1339755 words of memory out of 5000000
+ 48171 multiletter control sequences out of 15000+600000
+ 436322 words of font info for 157 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,13n,116p,874b,1689s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}</usr/lo
-cal/texlive/2021/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/loca
-l/texlive/2021/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></usr/local/texl
-ive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi0600.pfb></usr/local/texliv
-e/2021/texmf-dist/fonts/type1/public/cm-super/sfsi0800.pfb></usr/local/texlive/
-2021/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/texlive/20
-21/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/local/texlive/2021
-/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/local/texlive/2021/t
-exmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/texlive/2021/tex
-mf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texlive/2021/texmf
--dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2021/texmf-d
-ist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/2021/texmf-dis
-t/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2021/texmf-dist/
-fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021/texmf-dist/fo
-nts/type1/public/cm-super/sfss2488.pfb></usr/local/texlive/2021/texmf-dist/font
-s/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/
-type1/public/cm-super/sfsx1095.pfb></usr/local/texlive/2021/texmf-dist/fonts/ty
-pe1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type
-1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/
-public/cm-super/sfsx2488.pfb>
-Output written on CV.pdf (8 pages, 333195 bytes).
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.
+enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesome
+three.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.en
+c}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome/FontAwesom
+e.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/marvosym/marvosym.
+pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/tex-gyre/qplr.pfb></
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi0600.pfb></us
+r/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi0800.pfb></usr/
+local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/lo
+cal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/loca
+l/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/local/
+texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/te
+xlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></usr/local/texl
+ive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texliv
+e/2021/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive/
+2021/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/20
+21/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021
+/texmf-dist/fonts/type1/public/cm-super/sfss2488.pfb></usr/local/texlive/2021/t
+exmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/local/texlive/2021/tex
+mf-dist/fonts/type1/public/cm-super/sfsx1095.pfb></usr/local/texlive/2021/texmf
+-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-d
+ist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dis
+t/fonts/type1/public/cm-super/sfsx2488.pfb>
+Output written on CV.pdf (8 pages, 371261 bytes).
 PDF statistics:
- 291 PDF objects out of 1000 (max. 8388607)
- 258 compressed objects within 3 object streams
+ 320 PDF objects out of 1000 (max. 8388607)
+ 278 compressed objects within 3 object streams
  65 named destinations out of 1000 (max. 500000)
- 46821 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 46831 words of extra memory for PDF output out of 51595 (max. 10000000)
 

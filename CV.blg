@@ -1,40 +1,40 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'CV.blg'
-[52] biber-darwin:340> INFO - === Wed Dec 27, 2023, 15:37:56
-[62] Biber.pm:415> INFO - Reading 'CV.bcf'
-[134] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[134] Biber.pm:949> INFO - Using all citekeys in bib section 1
-[134] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[134] Biber.pm:949> INFO - Using all citekeys in bib section 2
-[134] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[134] Biber.pm:949> INFO - Using all citekeys in bib section 3
-[134] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
-[162] Biber.pm:4340> INFO - Processing section 1
-[170] Biber.pm:4531> INFO - Looking for bibtex format file 'pubs.bib' for section 1
-[172] bibtex.pm:1689> INFO - LaTeX decoding ...
-[181] bibtex.pm:1494> INFO - Found BibTeX data source 'pubs.bib'
-[303] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[303] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[303] Biber.pm:4168> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
-[303] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[314] Biber.pm:4340> INFO - Processing section 2
-[314] Biber.pm:4531> INFO - Looking for bibtex format file 'prep.bib' for section 2
-[315] bibtex.pm:1689> INFO - LaTeX decoding ...
-[316] bibtex.pm:1494> INFO - Found BibTeX data source 'prep.bib'
-[339] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[339] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[339] Biber.pm:4168> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
-[339] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[341] Biber.pm:4340> INFO - Processing section 3
-[341] Biber.pm:4531> INFO - Looking for bibtex format file 'pres.bib' for section 3
-[342] bibtex.pm:1689> INFO - LaTeX decoding ...
-[354] bibtex.pm:1494> INFO - Found BibTeX data source 'pres.bib'
-[462] Utils.pm:395> WARN - BibTeX subsystem: /var/folders/h7/d23_9bmx2ggbf_4ydnylr1m00000gn/T/biber_tmp_mfVw/1b44b7837de2bcedeacf4651a0e46b0b_11482.utf8, line 12, warning: 13 characters of junk seen at toplevel
-[462] Utils.pm:395> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[495] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[495] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[496] Biber.pm:4168> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
-[496] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[512] bbl.pm:654> INFO - Writing 'CV.bbl' with encoding 'UTF-8'
-[559] bbl.pm:757> INFO - Output to CV.bbl
-[559] Biber.pm:128> INFO - WARNINGS: 2
+[55] biber-darwin:340> INFO - === Thu Dec 28, 2023, 15:58:41
+[69] Biber.pm:415> INFO - Reading 'CV.bcf'
+[145] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[145] Biber.pm:949> INFO - Using all citekeys in bib section 1
+[145] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[145] Biber.pm:949> INFO - Using all citekeys in bib section 2
+[146] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[146] Biber.pm:949> INFO - Using all citekeys in bib section 3
+[146] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[174] Biber.pm:4340> INFO - Processing section 1
+[183] Biber.pm:4531> INFO - Looking for bibtex format file 'pubs.bib' for section 1
+[184] bibtex.pm:1689> INFO - LaTeX decoding ...
+[194] bibtex.pm:1494> INFO - Found BibTeX data source 'pubs.bib'
+[318] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[318] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[318] Biber.pm:4168> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[318] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[329] Biber.pm:4340> INFO - Processing section 2
+[329] Biber.pm:4531> INFO - Looking for bibtex format file 'prep.bib' for section 2
+[330] bibtex.pm:1689> INFO - LaTeX decoding ...
+[332] bibtex.pm:1494> INFO - Found BibTeX data source 'prep.bib'
+[352] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[352] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[352] Biber.pm:4168> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[352] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[354] Biber.pm:4340> INFO - Processing section 3
+[354] Biber.pm:4531> INFO - Looking for bibtex format file 'pres.bib' for section 3
+[356] bibtex.pm:1689> INFO - LaTeX decoding ...
+[368] bibtex.pm:1494> INFO - Found BibTeX data source 'pres.bib'
+[477] Utils.pm:395> WARN - BibTeX subsystem: /var/folders/h7/d23_9bmx2ggbf_4ydnylr1m00000gn/T/biber_tmp_YQlS/1b44b7837de2bcedeacf4651a0e46b0b_16392.utf8, line 12, warning: 13 characters of junk seen at toplevel
+[477] Utils.pm:395> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[509] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[509] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[509] Biber.pm:4168> INFO - Sorting list 'ymdnt/global//global/global' of type 'entry' with template 'ymdnt' and locale 'en-US'
+[510] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[526] bbl.pm:654> INFO - Writing 'CV.bbl' with encoding 'UTF-8'
+[572] bbl.pm:757> INFO - Output to CV.bbl
+[572] Biber.pm:128> INFO - WARNINGS: 2
