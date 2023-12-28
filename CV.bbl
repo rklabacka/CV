@@ -273,7 +273,7 @@
       \true{nocite}
     \endentry
     \entry{klabacka2021whiptail}{article}{}
-      \name{author}{11}{ul=2}{%
+      \name{author}{8}{ul=2}{%
         {{un=0,uniquepart=base,hash=513e43b1fd4301dce6e25273cd25d318}{%
            family={\textbf{Klabacka,\bibnamedelimb Randy\bibnamedelimb L}},
            familyi={K\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
@@ -283,21 +283,12 @@
            given={Hailey\bibnamedelima A},
            giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=6545382556c0db311cc02f3f25adc066}{%
+        {{un=0,uniquepart=base,hash=ebf78b3b9355679a7bebff3b0a755153}{%
            family={Yap},
            familyi={Y\bibinitperiod},
-           given={Kang\bibnamedelima Nian},
-           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Kang\bibnamedelimb Nian\bibnamedelimb Ryan\bibnamedelimb A\bibnamedelimb Cook*\bibnamedelimb Tori\bibnamedelimb A\bibnamedelimb Herron*\bibnamedelimb L\bibnamedelimb Miles\bibnamedelima Horne*},
+           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim H\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=3e352e500eca11eecd2232df7059c3ed}{%
-           family={\textit{Ryan\bibnamedelimb A\bibnamedelimb Cook}},
-           familyi={R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=3bc533a3643dbf8bca0464a3b0a1ca5f}{%
-           family={\textit{Tori\bibnamedelimb A\bibnamedelimb Herron}},
-           familyi={T\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=899a653dda8f9ff25b74f754c4ef228d}{%
-           family={\textit{L\bibnamedelimb Miles\bibnamedelimb Horne}},
-           familyi={L\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=a5c059700eb6a1bfc352623b82108ec7}{%
            family={Maldonado},
            familyi={M\bibinitperiod},
@@ -330,11 +321,11 @@
            givenun=0}}%
       }
       \strng{namehash}{5f07ed1cca14cc9a498fe86bf2dc5bbf}
-      \strng{fullhash}{1646e6bf7e33c7b2f078ce0a11f12de2}
-      \strng{bibnamehash}{1646e6bf7e33c7b2f078ce0a11f12de2}
-      \strng{authorbibnamehash}{1646e6bf7e33c7b2f078ce0a11f12de2}
+      \strng{fullhash}{488a6ff84f9938fecf2a05c978c15d5f}
+      \strng{bibnamehash}{488a6ff84f9938fecf2a05c978c15d5f}
+      \strng{authorbibnamehash}{488a6ff84f9938fecf2a05c978c15d5f}
       \strng{authornamehash}{5f07ed1cca14cc9a498fe86bf2dc5bbf}
-      \strng{authorfullhash}{1646e6bf7e33c7b2f078ce0a11f12de2}
+      \strng{authorfullhash}{488a6ff84f9938fecf2a05c978c15d5f}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -342,7 +333,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Naturalist}
-      \field{note}{\tiny{(\textit{undergrad})}}
       \field{title}{Reduced mitochondrial respiration in hybrid asexual lizards}
       \field{year}{2022}
       \true{nocite}
@@ -854,29 +844,23 @@
       \true{nocite}
     \endentry
     \entry{CatPop}{article}{}
-      \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=0a1528a2a59b0b1f3c393eb3f153a29a}{%
-           family={\textit{Christensen,\bibnamedelimb Baylee}},
-           familyi={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=a45426c8a3c2e266a492283b3ca31058}{%
-           family={\textit{Reagan\bibnamedelimb McKee}},
-           familyi={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=6a3944958e3a00e776a84260ba0d83f8}{%
-           family={\textit{Dante\bibnamedelimb Celani}},
-           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=5b60fab0f682d84a54dc47e1bb044d27}{%
-           family={\textit{Candice\bibnamedelimb Johnson}},
-           familyi={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=20ce70af09f6e319b95a56acea406617}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Baylee*\bibnamedelimb Reagan\bibnamedelimb McKee*\bibnamedelimb Dante\bibnamedelimb Celani*\bibnamedelimb Candice\bibnamedelima Johnson*},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=008da35209a326a6770c2c6c83ef8914}{%
            family={\textbf{Randy\bibnamedelimb L\bibnamedelimb Klabacka}},
            familyi={R\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
-      \strng{namehash}{38ad650229b7b0cedd91233e2a348745}
-      \strng{fullhash}{4237eac672e6fd8006488bd9aa63ac4a}
-      \strng{bibnamehash}{4237eac672e6fd8006488bd9aa63ac4a}
-      \strng{authorbibnamehash}{4237eac672e6fd8006488bd9aa63ac4a}
-      \strng{authornamehash}{38ad650229b7b0cedd91233e2a348745}
-      \strng{authorfullhash}{4237eac672e6fd8006488bd9aa63ac4a}
+      \strng{namehash}{34bced24d1c6a1ae33aef7981de8b701}
+      \strng{fullhash}{34bced24d1c6a1ae33aef7981de8b701}
+      \strng{bibnamehash}{34bced24d1c6a1ae33aef7981de8b701}
+      \strng{authorbibnamehash}{34bced24d1c6a1ae33aef7981de8b701}
+      \strng{authornamehash}{34bced24d1c6a1ae33aef7981de8b701}
+      \strng{authorfullhash}{34bced24d1c6a1ae33aef7981de8b701}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -884,7 +868,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{in-prep for Evolutionary Bioinformatics}
-      \field{note}{\scriptsize{(\textit{undergrad})}}
       \field{title}{CatPop: A software package to statistically quantify divergence between biological categories with underlying population structure}
       \field{year}{2024}
       \true{nocite}
@@ -895,7 +878,7 @@
 \refsection{3}
   \datalist[entry]{ymdnt/global//global/global}
     \entry{SICB21}{article}{}
-      \name{author}{12}{ul=2}{%
+      \name{author}{9}{ul=2}{%
         {{un=0,uniquepart=base,hash=513e43b1fd4301dce6e25273cd25d318}{%
            family={\textbf{Klabacka,\bibnamedelimb Randy\bibnamedelimb L}},
            familyi={K\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
@@ -905,21 +888,12 @@
            given={Hailey},
            giveni={H\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=2ce3da7727ea0a4a1396c25d4258efe8}{%
+        {{un=0,uniquepart=base,hash=732220d98ed40543264f915a3f5415ca}{%
            family={Yap},
            familyi={Y\bibinitperiod},
-           given={Jeff},
-           giveni={J\bibinitperiod},
+           given={Jeff\bibnamedelimb Ryan\bibnamedelimb Cook*\bibnamedelimb Tori\bibnamedelimb Herron*\bibnamedelimb L\bibnamedelimb Miles\bibnamedelima Horne*},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim H\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=6b58f0e8ab09bb54c8403373b64d4560}{%
-           family={\textit{Ryan\bibnamedelimb Cook}},
-           familyi={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=92f64ddfd519b3264d17407a32265308}{%
-           family={\textit{Tori\bibnamedelimb Herron}},
-           familyi={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=899a653dda8f9ff25b74f754c4ef228d}{%
-           family={\textit{L\bibnamedelimb Miles\bibnamedelimb Horne}},
-           familyi={L\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=dc762de8e9ce3a5399161ccd19dc9041}{%
            family={Maldonado},
            familyi={M\bibinitperiod},
@@ -958,11 +932,11 @@
            givenun=0}}%
       }
       \strng{namehash}{a7653bbbb8b5b709d2fed32c71a8eada}
-      \strng{fullhash}{89bda32e65ad2a63d724b5cbff2b356d}
-      \strng{bibnamehash}{89bda32e65ad2a63d724b5cbff2b356d}
-      \strng{authorbibnamehash}{89bda32e65ad2a63d724b5cbff2b356d}
+      \strng{fullhash}{0e9361ea34aca15680cecd022243f16b}
+      \strng{bibnamehash}{0e9361ea34aca15680cecd022243f16b}
+      \strng{authorbibnamehash}{0e9361ea34aca15680cecd022243f16b}
       \strng{authornamehash}{a7653bbbb8b5b709d2fed32c71a8eada}
-      \strng{authorfullhash}{89bda32e65ad2a63d724b5cbff2b356d}
+      \strng{authorfullhash}{0e9361ea34aca15680cecd022243f16b}
       \field{extraname}{1}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
@@ -970,31 +944,40 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{SICB 2021}
-      \field{note}{Virtual Conference -- talk \scriptsize{(\textit{undergrad})}}
+      \field{note}{Virtual Conference -- talk}
       \field{title}{Reduced endurance and mitochondrial respiration in hybrid asexual lizards (genus: \textit{Aspidoscelis})}
       \true{nocite}
     \endentry
     \entry{EVOL23b}{article}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=708cfe37e5445d627339d6f4674d47f9}{%
-           family={\textit{Johnson,\bibnamedelimb Candice}},
-           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=6a3944958e3a00e776a84260ba0d83f8}{%
-           family={\textit{Dante\bibnamedelimb Celani}},
-           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=0dc54f9c7327554131b00e5161ef41b4}{%
-           family={\textit{Seun\bibnamedelimb Onileowo}},
-           familyi={S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=e94ca04613704bf3c0793f956a0c9e1c}{%
+           family={Johnson*},
+           familyi={J\bibinitperiod},
+           given={Candice},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3bec89f1eb8b3aac3f3b0f7b4d54e79}{%
+           family={Celani*},
+           familyi={C\bibinitperiod},
+           given={Dante},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2020a047122c9935a12de0ebb5637f9a}{%
+           family={Onileowo*},
+           familyi={O\bibinitperiod},
+           given={Seun\bibnamedelima Onileowo},
+           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=008da35209a326a6770c2c6c83ef8914}{%
            family={\textbf{Randy\bibnamedelimb L\bibnamedelimb Klabacka}},
            familyi={R\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
-      \strng{namehash}{8594120b19382ea9e890995856c2c94a}
-      \strng{fullhash}{d41e7135d43c5d61bcace38804781fbb}
-      \strng{bibnamehash}{d41e7135d43c5d61bcace38804781fbb}
-      \strng{authorbibnamehash}{d41e7135d43c5d61bcace38804781fbb}
-      \strng{authornamehash}{8594120b19382ea9e890995856c2c94a}
-      \strng{authorfullhash}{d41e7135d43c5d61bcace38804781fbb}
+      \strng{namehash}{609b25cac2e18cc4c1bddfb37bff3c24}
+      \strng{fullhash}{ee9f54dfc563398ffce9d2156f1c0d8b}
+      \strng{bibnamehash}{ee9f54dfc563398ffce9d2156f1c0d8b}
+      \strng{authorbibnamehash}{ee9f54dfc563398ffce9d2156f1c0d8b}
+      \strng{authornamehash}{609b25cac2e18cc4c1bddfb37bff3c24}
+      \strng{authorfullhash}{ee9f54dfc563398ffce9d2156f1c0d8b}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1002,31 +985,49 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{EVOLUTION 2023}
-      \field{note}{Albuquerque, NM -- poster \scriptsize{(\textit{undergrad})}}
+      \field{note}{Albuquerque, NM -- poster}
       \field{title}{The effect of read-to-reference evolutionary relatedness on bioinformatic mapping efficiency of genomic sequencing data}
       \field{year}{2023}
       \true{nocite}
     \endentry
     \entry{EVOL23a}{article}{}
       \name{author}{15}{}{%
-        {{un=0,uniquepart=base,hash=0a1528a2a59b0b1f3c393eb3f153a29a}{%
-           family={\textit{Christensen,\bibnamedelimb Baylee}},
-           familyi={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=a45426c8a3c2e266a492283b3ca31058}{%
-           family={\textit{Reagan\bibnamedelimb McKee}},
-           familyi={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=6a3944958e3a00e776a84260ba0d83f8}{%
-           family={\textit{Dante\bibnamedelimb Celani}},
-           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=5b60fab0f682d84a54dc47e1bb044d27}{%
-           family={\textit{Candice\bibnamedelimb Johnson}},
-           familyi={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=35751771f4bafacb117da372b8f95d96}{%
-           family={\textit{Vicente\bibnamedelimb Fernández\bibnamedelimb Lara}},
-           familyi={V\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=db69dbd45c9b2ae3e6bf4704fde9d3ff}{%
-           family={\textit{Kasia\bibnamedelimb Poulson}},
-           familyi={K\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2045401e9fe94df24492ee94a17b10c2}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Baylee*},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=845e2bfa254942b365bfc77f2da5c50a}{%
+           family={McKee*},
+           familyi={M\bibinitperiod},
+           given={Reagan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3bec89f1eb8b3aac3f3b0f7b4d54e79}{%
+           family={Celani*},
+           familyi={C\bibinitperiod},
+           given={Dante},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e94ca04613704bf3c0793f956a0c9e1c}{%
+           family={Johnson*},
+           familyi={J\bibinitperiod},
+           given={Candice},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97128119188011ad39d23bdd466cfef2}{%
+           family={Fernández\bibnamedelima Lara*},
+           familyi={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Vicente},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b12ee55ecd111f712f8536bc61994a28}{%
+           family={Poulsen*},
+           familyi={P\bibinitperiod},
+           given={Kasia},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=a275fc085fe4756147bfe4c5be8326a2}{%
            family={Bronikowski},
            familyi={B\bibinitperiod},
@@ -1079,12 +1080,12 @@
            family={\textbf{Randy\bibnamedelimb L\bibnamedelimb Klabacka}},
            familyi={R\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
-      \strng{namehash}{38ad650229b7b0cedd91233e2a348745}
-      \strng{fullhash}{4d6a2218d3ca4fa08ff55a3b544a503e}
-      \strng{bibnamehash}{4d6a2218d3ca4fa08ff55a3b544a503e}
-      \strng{authorbibnamehash}{4d6a2218d3ca4fa08ff55a3b544a503e}
-      \strng{authornamehash}{38ad650229b7b0cedd91233e2a348745}
-      \strng{authorfullhash}{4d6a2218d3ca4fa08ff55a3b544a503e}
+      \strng{namehash}{f7d8509e67acf6c74344b1f14437b2b3}
+      \strng{fullhash}{3d9cd9e186226353d6790318936a2d19}
+      \strng{bibnamehash}{3d9cd9e186226353d6790318936a2d19}
+      \strng{authorbibnamehash}{3d9cd9e186226353d6790318936a2d19}
+      \strng{authornamehash}{f7d8509e67acf6c74344b1f14437b2b3}
+      \strng{authorfullhash}{3d9cd9e186226353d6790318936a2d19}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1092,25 +1093,37 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{EVOLUTION 2023}
-      \field{note}{Albuquerque, NM -- poster \scriptsize{(\textit{undergrad})}}
+      \field{note}{Albuquerque, NM -- poster}
       \field{title}{Comparing genetic divergence between biological groups using pair-wise population data, combinatorics, and a permutation test}
       \field{year}{2023}
       \true{nocite}
     \endentry
     \entry{UCUR23}{article}{}
       \name{author}{7}{}{%
-        {{un=0,uniquepart=base,hash=13a22921af511ee2f959840686ba92c9}{%
-           family={\textit{Ryland\bibnamedelimb R\bibnamedelimb Day}},
-           familyi={R\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=b9554cddac50714ab9216e58481ce76b}{%
-           family={\textit{Syrus\bibnamedelimb W\bibnamedelimb D\bibnamedelimb Miner}},
-           familyi={S\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=963840a38b168bcd7b85789de74510c5}{%
-           family={\textit{Adam\bibnamedelimb P\bibnamedelimb Dimaio}},
-           familyi={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=427047025f589bd7b64d4d9764403c56}{%
-           family={\textit{Justin\bibnamedelimb P\bibnamedelimb LeClair}},
-           familyi={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2dad93c950018d70b78a9e8ee3717018}{%
+           family={Day*},
+           familyi={D\bibinitperiod},
+           given={Ryland\bibnamedelima R},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80a9a08551228eec05e3dd6f485e8e19}{%
+           family={Miner*},
+           familyi={M\bibinitperiod},
+           given={Syrus\bibnamedelimb W\bibnamedelima D},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5efcfdbb9000183afdd50ffd9dc372fe}{%
+           family={Dimaio*},
+           familyi={D\bibinitperiod},
+           given={Adam\bibnamedelima P},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ffbe6fa983279d9474561d14b15df5db}{%
+           family={LeClair*},
+           familyi={L\bibinitperiod},
+           given={Justin\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=b63128fd80c1bb350830ab124af32a5e}{%
            family={Smith},
            familyi={S\bibinitperiod},
@@ -1127,12 +1140,12 @@
            family={\textbf{Randy\bibnamedelimb L\bibnamedelimb Klabacka}},
            familyi={R\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
-      \strng{namehash}{f921df23b58397408dfb54c360fb6794}
-      \strng{fullhash}{8bd4ab408a949f0bda02309d28d4c39c}
-      \strng{bibnamehash}{8bd4ab408a949f0bda02309d28d4c39c}
-      \strng{authorbibnamehash}{8bd4ab408a949f0bda02309d28d4c39c}
-      \strng{authornamehash}{f921df23b58397408dfb54c360fb6794}
-      \strng{authorfullhash}{8bd4ab408a949f0bda02309d28d4c39c}
+      \strng{namehash}{b5d26bfe75abb794e68067e53f6399f3}
+      \strng{fullhash}{38b2a379ccc50210c6955cf4306cdcc9}
+      \strng{bibnamehash}{38b2a379ccc50210c6955cf4306cdcc9}
+      \strng{authorbibnamehash}{38b2a379ccc50210c6955cf4306cdcc9}
+      \strng{authornamehash}{b5d26bfe75abb794e68067e53f6399f3}
+      \strng{authorfullhash}{38b2a379ccc50210c6955cf4306cdcc9}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1140,7 +1153,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{UCUR 2023}
-      \field{note}{University of Utah; Salt Lake City, UT -- poster \scriptsize{(\textit{undergrad})}}
+      \field{note}{University of Utah; Salt Lake City, UT -- poster}
       \field{title}{An inertial measurement unit enhanced knee brace working to improve outcomes after surgery}
       \field{year}{2023}
       \true{nocite}
@@ -1218,7 +1231,7 @@
       \true{nocite}
     \endentry
     \entry{WCH20}{article}{}
-      \name{author}{12}{ul=2}{%
+      \name{author}{9}{ul=2}{%
         {{un=0,uniquepart=base,hash=513e43b1fd4301dce6e25273cd25d318}{%
            family={\textbf{Klabacka,\bibnamedelimb Randy\bibnamedelimb L}},
            familyi={K\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
@@ -1228,21 +1241,12 @@
            given={Hailey},
            giveni={H\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=2ce3da7727ea0a4a1396c25d4258efe8}{%
+        {{un=0,uniquepart=base,hash=732220d98ed40543264f915a3f5415ca}{%
            family={Yap},
            familyi={Y\bibinitperiod},
-           given={Jeff},
-           giveni={J\bibinitperiod},
+           given={Jeff\bibnamedelimb Ryan\bibnamedelimb Cook*\bibnamedelimb Tori\bibnamedelimb Herron*\bibnamedelimb L\bibnamedelimb Miles\bibnamedelima Horne*},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim H\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=6b58f0e8ab09bb54c8403373b64d4560}{%
-           family={\textit{Ryan\bibnamedelimb Cook}},
-           familyi={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=92f64ddfd519b3264d17407a32265308}{%
-           family={\textit{Tori\bibnamedelimb Herron}},
-           familyi={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{un=0,uniquepart=base,hash=899a653dda8f9ff25b74f754c4ef228d}{%
-           family={\textit{L\bibnamedelimb Miles\bibnamedelimb Horne}},
-           familyi={L\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=dc762de8e9ce3a5399161ccd19dc9041}{%
            family={Maldonado},
            familyi={M\bibinitperiod},
@@ -1281,11 +1285,11 @@
            givenun=0}}%
       }
       \strng{namehash}{a7653bbbb8b5b709d2fed32c71a8eada}
-      \strng{fullhash}{89bda32e65ad2a63d724b5cbff2b356d}
-      \strng{bibnamehash}{89bda32e65ad2a63d724b5cbff2b356d}
-      \strng{authorbibnamehash}{89bda32e65ad2a63d724b5cbff2b356d}
+      \strng{fullhash}{0e9361ea34aca15680cecd022243f16b}
+      \strng{bibnamehash}{0e9361ea34aca15680cecd022243f16b}
+      \strng{authorbibnamehash}{0e9361ea34aca15680cecd022243f16b}
       \strng{authornamehash}{a7653bbbb8b5b709d2fed32c71a8eada}
-      \strng{authorfullhash}{89bda32e65ad2a63d724b5cbff2b356d}
+      \strng{authorfullhash}{0e9361ea34aca15680cecd022243f16b}
       \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -1294,7 +1298,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{9th Annual World Congress of Herpetology}
-      \field{note}{University of Otago; Dunedin, NZ -- talk \scriptsize{(\textit{undergrad})}}
+      \field{note}{University of Otago; Dunedin, NZ -- talk}
       \field{title}{The powerhouse of asexual cost? Endurance and mitochondrial efficiency in parthenogenetic whiptail lizards (genus \textit{Aspidoscelis})}
       \field{year}{2020}
       \true{nocite}
@@ -1483,9 +1487,12 @@
     \endentry
     \entry{COSAM18}{article}{}
       \name{author}{6}{}{%
-        {{un=0,uniquepart=base,hash=67ce042eb2f1cf81a62dbb513f7c8357}{%
-           family={\textit{Cook,\bibnamedelimb Ryan}},
-           familyi={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=d655a91b35484dadacff5b3f972f3d4f}{%
+           family={Cook*},
+           familyi={C\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=0894e2230e0f6eab9f6b154c28a4795f}{%
            family={\textbf{Randy\bibnamedelimb Klabacka\bibnamedelimb L}},
            familyi={R\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
@@ -1514,12 +1521,12 @@
            giveni={J\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{727d4c9fa9f963044e85282f31ddc5c8}
-      \strng{fullhash}{6b7648047251989f1ca424bd83e0fa69}
-      \strng{bibnamehash}{6b7648047251989f1ca424bd83e0fa69}
-      \strng{authorbibnamehash}{6b7648047251989f1ca424bd83e0fa69}
-      \strng{authornamehash}{727d4c9fa9f963044e85282f31ddc5c8}
-      \strng{authorfullhash}{6b7648047251989f1ca424bd83e0fa69}
+      \strng{namehash}{1195c2812757c602d4d1cbf5a4348091}
+      \strng{fullhash}{3d296f476f783277ae53015ee920db4a}
+      \strng{bibnamehash}{3d296f476f783277ae53015ee920db4a}
+      \strng{authorbibnamehash}{3d296f476f783277ae53015ee920db4a}
+      \strng{authornamehash}{1195c2812757c602d4d1cbf5a4348091}
+      \strng{authorfullhash}{3d296f476f783277ae53015ee920db4a}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1527,7 +1534,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{COSAM Research Fair 2018}
-      \field{note}{Auburn University -- poster \scriptsize{(\textit{undergrad})}}
+      \field{note}{Auburn University -- poster}
       \field{title}{Longitudinal examination of lungless salamander species (family Plethodontidae) morphology in Alabama}
       \field{year}{2018}
       \true{nocite}
